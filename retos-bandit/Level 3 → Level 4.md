@@ -6,8 +6,8 @@
 The password for the next level is stored in a hidden file in the **inhere** directory.
 
 ## Datos de acceso al nivel
-bandit3
-aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+- bandit3
+- aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 
 ## Solución
 ```bash
