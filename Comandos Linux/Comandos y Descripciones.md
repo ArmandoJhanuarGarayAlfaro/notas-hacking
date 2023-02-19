@@ -10,4 +10,6 @@
 | pwd | Imprime el nombre del directorio actual de trabajo actual |
 | cd /directorio/ | **Cambia de directorio.** Existen rutas absolutas y relativas, las absolutas tienen el nombre del directorio las relativas usan "." y "..", el "." se refire al directorio de trabajo, el ".." se refuere al directorio principal de trabajo|
 | ls | Muestra el contenido del directorio |
-|  cd | Solo este comando solitario cambia el dierctorio actual 
+|  cd | Solo este comando solitario cambia el dierctorio actual al directorio home |
+| cd - | Cambia el directorio de trabajo actual al directorio de trabajo previo |
+| cd 
