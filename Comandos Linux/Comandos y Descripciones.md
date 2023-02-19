@@ -9,4 +9,5 @@
 | exit | Para salir de la sesión, o usar el comando **Ctrl-d** |
 | pwd | Imprime el nombre del directorio actual de trabajo actual |
 | cd | Cambia de directorio |
-| ls | Muestra el c
+| ls | Muestra el contenido del directorio |
+
