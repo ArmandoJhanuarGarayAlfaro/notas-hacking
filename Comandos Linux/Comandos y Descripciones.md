@@ -1,4 +1,5 @@
-#comandos
+#comandos #descripcion
+
 | Comando | Descripcion |
 |---------|-------------|
 | [me@linuxbox ~]# | Al terminar con # tiene permisos de superusuario |
@@ -95,5 +96,12 @@ Ejemplo comandos ***rm***:
 | Comando | Descripcion |
 |---------|-------------|
 | ln *file link* | Crea un Hard link. Un enlace duro no puede hacer referencia a un fichero fuera de su propio sistema de ficheros. Esto significa que un enlace no puede hacer referencia a un archivo que no esté en la misma partición de disco que el propio enlace. Un enlace duro no puede hacer referencia a un directorio.|
-| ln -s *item link* | Crea un Symbolic link. Los enlaces simbólicos se crearon para superar las limitaciones de los enlaces duros. |
-
+| ln -s *item link* | Crea un Symbolic link. Los enlaces simbólicos se crearon para superar las limitaciones de los enlaces duros. Se parecen a los accesos directos. |
+| type | Indicar cómo se interpreta el nombre de un comando |
+| which | Mostrar qué programa ejecutable se ejecutará |
+| help | Ayuda para shell buildins |
+| man | Mostrar la página del manual de un comando |
+| apropos | Mostrar una lista de comandos apropiados |
+| info | Mostrar la entrada de información de un comando |
+| whatis | Mostrar descripciones de página de manual de una línea |
+| alias | |
