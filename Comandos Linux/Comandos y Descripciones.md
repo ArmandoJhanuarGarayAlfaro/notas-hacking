@@ -32,3 +32,7 @@ Opciones comunes del comando ls que lo acompañan:
 | -r | --reverse | Muestre los resultados en orden inverso. Normalmente, ls muestra sus resultados en orden ascendente orden alfabetico. |
 | -S |  | Ordenar resultados por tamaño de archivo |
 | -t | | Ordena por tiempo de modificación |
+
+| Comando | Descripcion |
+|---------|-------------|
+| file *filename* | Determinar el tipo de archivo. El comando imprimirá una breve descripción del contenido del archivo.| 
