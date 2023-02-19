@@ -10,7 +10,7 @@ The password for the next level is stored somewhere on the server and has all of
 	33 bytes in size
 
 ## Datos de acceso al nivel
-bandit6
+- Usuario: bandit6
 P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 
 ## Solución

@@ -7,7 +7,7 @@ The password for the next level is stored in a file called **readme** located 
 
 ## Datos de acceso al nivel
 - Usuario: bandit0
-- bandit0
+- *Contraseña:* bandit0
 
 ## Solución
 ```bash
