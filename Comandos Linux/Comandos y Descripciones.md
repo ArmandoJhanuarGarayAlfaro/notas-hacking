@@ -12,4 +12,5 @@
 | ls | Muestra el contenido del directorio |
 |  cd | Solo este comando solitario cambia el dierctorio actual al directorio home |
 | cd - | Cambia el directorio de trabajo actual al directorio de trabajo previo |
-| cd 
+| cd ~user_name | Cambia el directorio de trabajo al directorio de inicio de nombre de usuario. Por ejemplo, cd ~bob cambiará el directorio a el directorio de inicio del usuario "bob". |
+| 
