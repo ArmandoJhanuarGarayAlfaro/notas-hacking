@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e4e2ea60066106d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comandos Linux/Wildcard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b74655dafabdba37",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comandos Linux/Comandos y Descripciones.md",
+                "file": "Comandos Linux/Wildcard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comandos Linux/Comandos y Descripciones.md",
+                "file": "Comandos Linux/Wildcard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comandos Linux/Comandos y Descripciones.md"
+                "file": "Comandos Linux/Wildcard.md"
               }
             }
           },
@@ -157,17 +169,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "18fc00939253e2be",
+  "active": "7e4e2ea60066106d",
   "lastOpenFiles": [
+    "Comandos Linux/Comandos y Descripciones.md",
+    "Comandos Linux/Wildcard.md",
     "retos-bandit/Level 0.md",
     "retos-bandit/Level 0 → Level 1.md",
-    "Comandos Linux/Comandos y Descripciones.md",
     "retos-bandit/Level 14 → Level 15.md",
     "retos-bandit/Plantilla.md",
     "retos-bandit/Level 15 → Level 16.md",
     "retos-bandit/Level 13 → Level 14.md",
     "retos-bandit/Level 12 → Level 13.md",
-    "retos-bandit/Level 11 → Level 12.md",
-    "retos-bandit/Level 10 → Level 11.md"
+    "retos-bandit/Level 11 → Level 12.md"
   ]
 }

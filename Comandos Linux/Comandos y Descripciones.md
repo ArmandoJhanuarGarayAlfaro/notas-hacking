@@ -20,7 +20,7 @@
 | ls -t | Ordena el listado de archivos por el tiempo de modificación del archivo |
 | ls -lt --reverse | revierte el orden de clasificación |
 
-Opciones comunes del comando ls que lo acompañan:
+Opciones comunes del comando ***ls*** que lo acompañan:
 | Opcion | Opcion larga | Descripcion |
 |--------|--------------|-------------|
 | -a | --all | Enumere todos los archivos, incluso aquellos con nombres que comienzan con un período, que normalmente no se enumeran (es decir, oculto). |
@@ -37,3 +37,9 @@ Opciones comunes del comando ls que lo acompañan:
 |---------|-------------|
 | file *filename* | Determinar el tipo de archivo. El comando imprimirá una breve descripción del contenido del archivo.| 
 | less | Observa el contenido de los archivos |
+| cp | Copia archivos y directorios |
+| mv | Mueve/renombre archivos y directorios |
+| mkdir | Crea directorios |
+| rm | Elimina archivos y directorios |
+| ln | Crea hard y Symbolic links |
+| 
