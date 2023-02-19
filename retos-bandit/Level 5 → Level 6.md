@@ -10,9 +10,9 @@ The password for the next level is stored in a file somewhere under the inhere d
 	not executable
 
 ## Datos de acceso al nivel
-- Usuario: bandit5
-- lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
-- 
+- **Usuario:** bandit5
+- **Contraseña:** lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+
 ## Solución
 ```bash
 bandit5@bandit:~$ ls

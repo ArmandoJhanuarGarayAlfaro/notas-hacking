@@ -6,8 +6,8 @@
 The password for the next level is stored in the file **data.txt** in one of the few human-readable strings, preceded by several ‘=’ characters.
 
 ## Datos de acceso al nivel
-- Usuario: bandit8
-- TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+- **Usuario:** bandit8
+- **Contraseña:** TESKZC0XvTetK0S9xNwm25STk5iWrBvP
 
 ## Solución
 ```bash
