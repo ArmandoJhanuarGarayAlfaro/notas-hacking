@@ -10,4 +10,4 @@
 | pwd | Imprime el nombre del directorio actual de trabajo actual |
 | cd | **Cambia de directorio.** Existen rutas absolutas y relativas, las absolutas tienen el nombre del directorio las relativas usan "." y "..", el "." se refire al directorio de trabajo, el ".." se refuere al directorio principal de trabajo|
 | ls | Muestra el contenido del directorio |
-
+|  |
