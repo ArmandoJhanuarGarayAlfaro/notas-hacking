@@ -39,7 +39,7 @@ bandit11@bandit:~$
 ## Notas adicionales
 | Comando | Descripcion |
 |---------|-------------|
-| Comando | descripcion |
+|  |  |
 
 ## Referencias
 - []()

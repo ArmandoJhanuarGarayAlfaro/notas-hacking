@@ -32,7 +32,7 @@ The password is 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
 ## Notas adicionales
 | Comando | Descripcion |
 |---------|-------------|
-| Comando | descripcion |
+|  |  |
 
 ## Referencias
 - []()
