@@ -1,3 +1,7 @@
+#ls
+
+# Muestra el contenido del directorio
+
 Opciones comunes del comando ***ls*** que lo acompañan:
 | Opcion | Opcion larga | Descripcion |
 |--------|--------------|-------------|

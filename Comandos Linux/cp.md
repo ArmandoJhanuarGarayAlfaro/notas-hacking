@@ -1,4 +1,7 @@
-3
+#cp
+
+# Copia archivos y directorios
+
 Opciones del comando ***cp***:
 | Opcion | Opcion larga | Descripcion |
 |--------|--------------|-------------|

@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comandos Linux/cp.md",
+                "file": "Comandos Linux/Comandos y Descripciones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29584177344448d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comandos Linux/Comandos y Descripciones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1a3c9c062b3583c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comandos Linux/Comandos y Descripciones.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comandos Linux/cp.md",
+                "file": "Comandos Linux/Comandos y Descripciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comandos Linux/cp.md",
+                "file": "Comandos Linux/Comandos y Descripciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comandos Linux/cp.md"
+                "file": "Comandos Linux/Comandos y Descripciones.md"
               }
             }
           },
@@ -181,17 +205,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c208a671d65eeeea",
+  "active": "d1a3c9c062b3583c",
   "lastOpenFiles": [
-    "Comandos Linux/Comandos y Descripciones.md",
+    "Comandos Linux/cp.md",
     "Comandos Linux/ls.md",
+    "Comandos Linux/Comandos y Descripciones.md",
+    "Comandos Linux/rm.md",
+    "Comandos Linux/mv.md",
     "Comandos Linux/Wildcard.md",
     "retos-bandit/Level 0.md",
     "retos-bandit/Level 0 → Level 1.md",
     "retos-bandit/Level 14 → Level 15.md",
-    "retos-bandit/Plantilla.md",
-    "retos-bandit/Level 15 → Level 16.md",
-    "retos-bandit/Level 13 → Level 14.md",
-    "retos-bandit/Level 12 → Level 13.md"
+    "retos-bandit/Plantilla.md"
   ]
 }
