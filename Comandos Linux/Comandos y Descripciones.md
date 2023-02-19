@@ -42,4 +42,11 @@ Opciones comunes del comando ***ls*** que lo acompañan:
 | mkdir | Crea directorios |
 | rm | Elimina archivos y directorios |
 | ln | Crea hard y Symbolic links |
-| 
+
+| Opcion | Opcion larga | Descripcion |
+|--------|--------------|-------------|
+| -a | --archive | Copie los archivos y directorios y todos sus atributos, incluidas las propiedades y los permisos. Normalmente, las copias toman los atributos predeterminados del usuario que realiza la copia. |
+| -i | --iteractive | Antes de sobrescribir un archivo existente, solicite confirmación al usuario. Si no se especifica esta opción, cp sobrescribirá los archivos de forma silenciosa (lo que significa que no habrá advertencia). |
+| -r | --recursive | Copia recursivamente de directorios y sus contenidos. Esta opción (o la opción -a) es necesaria al copiar directorios |
+| -u | --update | Al copiar archivos de un directorio a otro, solo copie los archivos que no existen o que son más nuevos que los archivos correspondientes existentes en el directorio de destino. Esto es útil cuando se copian grandes cantidades de archivos, ya que omite los archivos que no necesitan copiarse. |
+| -v | --verbose | Mostrar mensajes informativos a medida que se realiza la copia. |
