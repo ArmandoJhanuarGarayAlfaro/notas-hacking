@@ -1,1 +1,4 @@
 #comandos
+| Comando | Descripcion |
+|---------|-------------|
+| | |
