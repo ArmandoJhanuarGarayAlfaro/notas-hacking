@@ -20,22 +20,6 @@
 | ls -l | Se listan los archivos del directorio con el formato largo especificado por "-l" |
 | ls -t | Ordena el listado de archivos por el tiempo de modificación del archivo |
 | ls -lt --reverse | revierte el orden de clasificación |
-
-Opciones comunes del comando ***ls*** que lo acompañan:
-| Opcion | Opcion larga | Descripcion |
-|--------|--------------|-------------|
-| -a | --all | Enumere todos los archivos, incluso aquellos con nombres que comienzan con un período, que normalmente no se enumeran (es decir, oculto). |
-| -A | --almost-all | Como la opción -a anterior, excepto que no lista . (directorio actual) y .. (padre directorio). |
-| -d | --directory | Normalmente, si se especifica un directorio, ls enumerar el contenido del directorio, no el directorio en sí. Utilice esta opción junto con con la opción -l para ver detalles sobre el directorio en lugar de su contenido. |
-| -F | --classify | Esta opción agregará un carácter indicador al final de cada nombre enumerado. por ejemplo, un barra diagonal (/) si el nombre es un directorio. |
-| -h | --human-readable | En listados de formato largo, muestre los tamaños de archivo en formato legible por humanos en lugar de en bytes. |
-| -l | |  Muestra el resultado en formato largo |
-| -r | --reverse | Muestre los resultados en orden inverso. Normalmente, ls muestra sus resultados en orden ascendente orden alfabetico. |
-| -S |  | Ordenar resultados por tamaño de archivo |
-| -t | | Ordena por tiempo de modificación |
-
-| Comando | Descripcion |
-|---------|-------------|
 | file *filename* | Determinar el tipo de archivo. El comando imprimirá una breve descripción del contenido del archivo.| 
 | less | Observa el contenido de los archivos |
 | cp | Copia archivos y directorios |
@@ -44,23 +28,6 @@ Opciones comunes del comando ***ls*** que lo acompañan:
 | rm | Elimina archivos y directorios |
 | ln | Crea hard y Symbolic links |
 
-Opciones del comando ***cp***:
-| Opcion | Opcion larga | Descripcion |
-|--------|--------------|-------------|
-| -a | --archive | Copie los archivos y directorios y todos sus atributos, incluidas las propiedades y los permisos. Normalmente, las copias toman los atributos predeterminados del usuario que realiza la copia. |
-| -i | --iteractive | Antes de sobrescribir un archivo existente, solicite confirmación al usuario. Si no se especifica esta opción, cp sobrescribirá los archivos de forma silenciosa (lo que significa que no habrá advertencia). |
-| -r | --recursive | Copia recursivamente de directorios y sus contenidos. Esta opción (o la opción -a) es necesaria al copiar directorios |
-| -u | --update | Al copiar archivos de un directorio a otro, solo copie los archivos que no existen o que son más nuevos que los archivos correspondientes existentes en el directorio de destino. Esto es útil cuando se copian grandes cantidades de archivos, ya que omite los archivos que no necesitan copiarse. |
-| -v | --verbose | Mostrar mensajes informativos a medida que se realiza la copia. |
-
-Ejemplo comandos ***cp***:
-| Comando | Resultado |
-|---------|-----------|
-| cp archivo1 archivo2 | Copie el archivo1 al archivo2. Si el archivo2 existe, se sobrescribe con el contenido del archivo1. Si el archivo2 no existe, se crea. |
-| cp -i archivo1 archivo2 | Igual que el comando anterior, excepto que si archivo2 existe, se le pregunta al usuario antes de que se sobrescriba. |
-| cp archivo1 archivo2 dir1 | Copie archivo1 y archivo2 en el directorio dir1. El directorio dir1 ya debe existir.|
-| cp dir1/* dir2 | Usando un comodín, copie todos los archivos en dir1 en dir2. El directorio dir2 ya debe existir. |
-| cp -r dir1 dir2 | Copia el contenido del directorio dir1 al directorio dir2. Si el directorio dir2 no existe, se crea y, después de la copia, tendrá el mismo contenido como directorio dir1. Si el directorio dir2 existe, entonces el directorio dir1 (y su contenido) se copiará en dir2. |
 
 Opciones del comando ***mv***:
 | Opcion | Opcion larga | Descripcion |
@@ -104,4 +71,7 @@ Ejemplo comandos ***rm***:
 | apropos | Mostrar una lista de comandos apropiados |
 | info | Mostrar la entrada de información de un comando |
 | whatis | Mostrar descripciones de página de manual de una línea |
-| alias | |
+| alias | Crear un alias para un comando |
+| *command* --help | Mostrar información de uso |
+| unalias | Usado para remover alias |
+

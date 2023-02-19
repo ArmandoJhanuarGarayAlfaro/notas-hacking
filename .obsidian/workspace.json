@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1ff3340f8c3a131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comandos Linux/Comandos y Descripciones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c208a671d65eeeea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comandos Linux/cp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b74655dafabdba37",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comandos Linux/Comandos y Descripciones.md",
+                "file": "Comandos Linux/cp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comandos Linux/Comandos y Descripciones.md",
+                "file": "Comandos Linux/cp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comandos Linux/Comandos y Descripciones.md"
+                "file": "Comandos Linux/cp.md"
               }
             }
           },
@@ -157,17 +181,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7e4e2ea60066106d",
+  "active": "c208a671d65eeeea",
   "lastOpenFiles": [
-    "Comandos Linux/Wildcard.md",
     "Comandos Linux/Comandos y Descripciones.md",
+    "Comandos Linux/ls.md",
+    "Comandos Linux/Wildcard.md",
     "retos-bandit/Level 0.md",
     "retos-bandit/Level 0 → Level 1.md",
     "retos-bandit/Level 14 → Level 15.md",
     "retos-bandit/Plantilla.md",
     "retos-bandit/Level 15 → Level 16.md",
     "retos-bandit/Level 13 → Level 14.md",
-    "retos-bandit/Level 12 → Level 13.md",
-    "retos-bandit/Level 11 → Level 12.md"
+    "retos-bandit/Level 12 → Level 13.md"
   ]
 }
