@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b74655dafabdba37",
@@ -156,7 +157,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "18fc00939253e2be",
+  "active": "9a0c607fd32324cd",
   "lastOpenFiles": [
     "retos-bandit/Level 14 → Level 15.md",
     "Comandos Linux/Comandos y Descripciones.md",
