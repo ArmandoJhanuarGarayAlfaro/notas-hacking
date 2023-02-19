@@ -7,4 +7,6 @@
 | df | Para ver la cantidad actual de espacio libre en nuestras unidades de disco |
 | free | Para mostrar la cantidad de memoria libre |
 | exit | Para salir de la sesión, o usar el comando **Ctrl-d** |
-| 
+| pwd | Imprime el nombre del directorio actual de trabajo actual |
+| cd | Cambia de directorio |
+| ls | Muestra el c
