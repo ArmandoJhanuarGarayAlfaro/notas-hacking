@@ -36,3 +36,4 @@ Opciones comunes del comando ls que lo acompañan:
 | Comando | Descripcion |
 |---------|-------------|
 | file *filename* | Determinar el tipo de archivo. El comando imprimirá una breve descripción del contenido del archivo.| 
+| less | Observa el contenido de los archivos |
