@@ -5,6 +5,8 @@
 ## Objetivo
 
 ## Datos de acceso al nivel
+- bandit12
+- JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
 
 ## Solución
 ```bash
