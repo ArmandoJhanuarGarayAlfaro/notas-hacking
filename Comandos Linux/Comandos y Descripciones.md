@@ -1,8 +1,8 @@
 #comandos #descripcion
 ## Tabla de comandos con descripciones
 
-| Comando -----| Descripcion |
-|---------|-------------|
+| ----- Comando ----- | Descripcion |
+|------------------------|-------------|
 | \[me@linuxbox ~]# | Al terminar con # tiene permisos de superusuario |
 | date | Muestra la hora actual y la fecha |
 | cal | Muestra el calendario del mes actual |

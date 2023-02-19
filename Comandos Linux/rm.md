@@ -1,5 +1,7 @@
 #rm
 
+# Elimina archivos y directorios
+
 Opciones del comando ***rm***:
 | Opcion | Opcion larga | Descripcion |
 |--------|--------------|-------------|

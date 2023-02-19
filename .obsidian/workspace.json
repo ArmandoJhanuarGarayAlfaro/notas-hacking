@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e4e2ea60066106d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comandos Linux/Comandos y Descripciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1ff3340f8c3a131",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comandos Linux/Comandos y Descripciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c208a671d65eeeea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comandos Linux/Comandos y Descripciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29584177344448d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comandos Linux/Comandos y Descripciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d1a3c9c062b3583c",
             "type": "leaf",
             "state": {
@@ -67,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,9 +160,9 @@
   "lastOpenFiles": [
     "Comandos Linux/cp.md",
     "Comandos Linux/ls.md",
-    "Comandos Linux/Comandos y Descripciones.md",
-    "Comandos Linux/rm.md",
     "Comandos Linux/mv.md",
+    "Comandos Linux/rm.md",
+    "Comandos Linux/Comandos y Descripciones.md",
     "Comandos Linux/Wildcard.md",
     "retos-bandit/Level 0.md",
     "retos-bandit/Level 0 → Level 1.md",
