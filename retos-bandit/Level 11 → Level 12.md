@@ -19,7 +19,9 @@ Gur cnffjbeq vf WIAOOSFzMjXXBC0KoSKBbJ8puQm5lIEi
 bandit11@bandit:~$ cat data.txt | tr [a-zA-Z] [n-za-mN-ZA-M]
 The password is JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
 bandit11@bandit:~$
+```
 Forma 2
+```bash
 bandit11@bandit:~$ ls
 data.txt
 bandit11@bandit:~$ cat data.txt
@@ -33,6 +35,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>>
 bandit11@bandit:~$
 ```
+
 ## Notas adicionales
 | Comando | Descripcion |
 |---------|-------------|
