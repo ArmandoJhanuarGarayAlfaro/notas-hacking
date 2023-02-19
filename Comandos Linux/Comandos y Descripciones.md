@@ -15,3 +15,5 @@
 | ls | Muestra el contenido del directorio |
 | ls -a | muestra los archivos ocultos por el -a |
 | ls /usr | Lista los archivos del directorio especificado |
+| ls ~ /usr | Enumeramos tanto el usuario directorio de inicio (simbolizado por el carácter "~") y el directorio /usr |
+| ls -l | Se listan los archivos del directorio con el formato largo especificado por "-l" |
