@@ -29,4 +29,6 @@ Opciones comunes del comando ls que lo acompañan:
 | -F | --classify | Esta opción agregará un carácter indicador al final de cada nombre enumerado. por ejemplo, un barra diagonal (/) si el nombre es un directorio. |
 | -h | --human-readable | En listados de formato largo, muestre los tamaños de archivo en formato legible por humanos en lugar de en bytes. |
 | -l | |  Muestra el resultado en formato largo |
-| -r | --reverse | Muestre los resultados en orden inverso. Normalmente, ls muestra sus resultados en orden ascendente orden alfabetico.
+| -r | --reverse | Muestre los resultados en orden inverso. Normalmente, ls muestra sus resultados en orden ascendente orden alfabetico. |
+| -S |  | Ordenar resultados por tamaño de archivo |
+| -t | | Ordena por tiempo de modificación |
