@@ -33,7 +33,7 @@ Connection to bandit.labs.overthewire.org closed.
 ## Notas adicionales
 | Comando | Descripcion |
 |---------|-------------|
-| Comando | descripcion |
+|  |  |
 
 ## Referencias
-- []()
+- [SSH/OpenSSH/Keys](https://help.ubuntu.com/community/SSH/OpenSSH/Keys)
