@@ -14,4 +14,4 @@
 | cd ~user_name | Cambia el directorio de trabajo al directorio de inicio de nombre de usuario. Por ejemplo, cd ~bob cambiará el directorio a el directorio de inicio del usuario "bob". |
 | ls | Muestra el contenido del directorio |
 | ls -a | muestra los archivos ocultos por el -a |
-| 
+| ls /usr | Lista los archivos del directorio especificado |
