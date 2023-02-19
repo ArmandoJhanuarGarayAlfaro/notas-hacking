@@ -8,6 +8,6 @@
 | free | Para mostrar la cantidad de memoria libre |
 | exit | Para salir de la sesión, o usar el comando **Ctrl-d** |
 | pwd | Imprime el nombre del directorio actual de trabajo actual |
-| cd | Cambia de directorio |
+| cd | Cambia de directorio. Existen rutas absolutas y relativas, las absolutas tienen el nombre del directorio las relativas usan "." y ".." |
 | ls | Muestra el contenido del directorio |
 
