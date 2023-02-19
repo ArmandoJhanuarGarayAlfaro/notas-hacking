@@ -4,8 +4,8 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 
 ## Datos de acceso al nivel
 - bandit.labs.overthewire.org
-- Usuario: bandit0
-- Contraseña: bandit0
+- **Usuario:** bandit0
+- **Contraseña:** bandit0
 ## Solución
 ```bash
 PS C:\Users\ENRIC> ssh bandit0@bandit.labs.overthewire.org -p 2220

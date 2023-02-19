@@ -6,8 +6,8 @@
 The password for the next level is stored in a file called **-** located in the home directory
 
 ## Datos de acceso al nivel
-- Usuario: bandit1
-- NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+- **Usuario:** bandit1
+- **Contraseña:** NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 
 ## Solución
 ```bash
