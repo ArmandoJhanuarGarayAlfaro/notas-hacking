@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comandos Linux/Comandos y Descripciones.md",
+                "file": "retos-bandit/Level 10 → Level 11.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b74655dafabdba37",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comandos Linux/Comandos y Descripciones.md",
+                "file": "retos-bandit/Level 10 → Level 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comandos Linux/Comandos y Descripciones.md",
+                "file": "retos-bandit/Level 10 → Level 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comandos Linux/Comandos y Descripciones.md"
+                "file": "retos-bandit/Level 10 → Level 11.md"
               }
             }
           },
@@ -158,15 +159,15 @@
   },
   "active": "d1a3c9c062b3583c",
   "lastOpenFiles": [
+    "retos-bandit/Level 9 → Level 10.md",
+    "Comandos Linux/Comandos y Descripciones.md",
     "Comandos Linux/cp.md",
     "Comandos Linux/ls.md",
     "Comandos Linux/mv.md",
     "Comandos Linux/rm.md",
-    "Comandos Linux/Comandos y Descripciones.md",
     "Comandos Linux/Wildcard.md",
     "retos-bandit/Level 0.md",
     "retos-bandit/Level 0 → Level 1.md",
-    "retos-bandit/Level 14 → Level 15.md",
-    "retos-bandit/Plantilla.md"
+    "retos-bandit/Level 14 → Level 15.md"
   ]
 }
