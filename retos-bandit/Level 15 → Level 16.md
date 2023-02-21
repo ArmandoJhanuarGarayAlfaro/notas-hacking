@@ -68,7 +68,8 @@ bandit14@bandit:~$
 ## Notas adicionales
 | Comando | Descripcion |
 |---------|-------------|
-|  |  |
+| nc -v | Para concectarse a un puerto de un lado |
+| openssl | es un cliente ssl |
 
 ## Referencias
 - []()
