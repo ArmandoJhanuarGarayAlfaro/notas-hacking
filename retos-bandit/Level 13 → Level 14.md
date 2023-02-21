@@ -33,7 +33,7 @@ Connection to bandit.labs.overthewire.org closed.
 ## Notas adicionales
 | Comando | Descripcion |
 |---------|-------------|
-|  |  |
+| ssh -i | Usa la llave ssh privada para acceder |
 
 ## Referencias
 - [SSH/OpenSSH/Keys](https://help.ubuntu.com/community/SSH/OpenSSH/Keys)

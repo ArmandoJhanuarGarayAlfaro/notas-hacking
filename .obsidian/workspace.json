@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/Level 13 → Level 14.md",
+                "file": "retos-bandit/Level 14 → Level 15.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 13 → Level 14.md",
+                "file": "retos-bandit/Level 14 → Level 15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 13 → Level 14.md",
+                "file": "retos-bandit/Level 14 → Level 15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 13 → Level 14.md"
+                "file": "retos-bandit/Level 14 → Level 15.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "65d86f9fd074a2ad",
   "lastOpenFiles": [
+    "retos-bandit/Level 13 → Level 14.md",
     "retos-bandit/Level 12 → Level 13.md",
     "retos-bandit/Level 11 → Level 12.md",
     "retos-bandit/Level 10 → Level 11.md",
@@ -167,7 +168,6 @@
     "Comandos Linux/Comandos y Descripciones.md",
     "Comandos Linux/cp.md",
     "Comandos Linux/ls.md",
-    "Comandos Linux/mv.md",
-    "Comandos Linux/rm.md"
+    "Comandos Linux/mv.md"
   ]
 }

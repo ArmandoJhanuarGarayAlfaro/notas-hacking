@@ -22,7 +22,7 @@ bandit14@bandit:~$
 ## Notas adicionales
 | Comando | Descripcion |
 |---------|-------------|
-| | |
+| ping -c3 | Para ver la direccion ip de un DNS como www.uaz.edu.mx |
 
 ## Referencias
 - []()
