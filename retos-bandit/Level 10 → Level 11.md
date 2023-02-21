@@ -35,4 +35,5 @@ The password is 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
 |  |  |
 
 ## Referencias
-- []()
+- [CyberChef página que ayuda a decodificar en cualquier formato](https://gchq.github.io/CyberChef/)
+-
