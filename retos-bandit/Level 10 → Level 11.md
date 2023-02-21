@@ -32,7 +32,7 @@ The password is 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
 ## Notas adicionales
 | Comando | Descripcion |
 |---------|-------------|
-|  |  |
+| base64 | Para decodificar una linea de texto en base64  |
 
 ## Referencias
 - [CyberChef página que ayuda a decodificar en cualquier formato](https://gchq.github.io/CyberChef/)
