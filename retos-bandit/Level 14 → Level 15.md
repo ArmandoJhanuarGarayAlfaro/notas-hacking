@@ -23,6 +23,7 @@ bandit14@bandit:~$
 | Comando | Descripcion |
 |---------|-------------|
 | ping -c3 | Para ver la direccion ip de un DNS como www.uaz.edu.mx |
-
+| nc -v | Para conectarse a una maquina desde un puerto, ademas puede ver si el puerto está abierto |
+ 
 ## Referencias
-- []()
+- [NetCat]()
