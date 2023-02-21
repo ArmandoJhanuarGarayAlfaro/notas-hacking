@@ -38,7 +38,9 @@ The password is wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 ## Notas adicionales
 | Comando | Descripcion |
 |---------|-------------|
-|  |  |
+| zcat | descomprime en memoria un archivo .gz  |
+|  bzcat |  Descomprime en memoria un archivo.bz2 |
+| tar xO | Descomprime en memoria un archivo .tar |
 
 ## Referencias
-- []()
+- [Baseado Hexadecimal](https://en.wikipedia.org/wiki/Hex_dump)
