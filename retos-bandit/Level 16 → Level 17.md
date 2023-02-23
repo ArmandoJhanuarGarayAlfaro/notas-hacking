@@ -75,7 +75,9 @@ bandit16@bandit:~$ exit
 ## Notas adicionales
 | Comando | Descripcion |
 |---------|-------------|
-|  |  |
+|  nmap localhost | Ver los puertos abiertos del local host |
+| nmap -p 31000-32000 | Ve si ese rango de puestos hay algunos abiertos
+| openssl s_client --connect | Para hablar con un servidor en ssl, para que el puesto entienda usando un lenguaje SSL |
 
 ## Referencias
 - []()

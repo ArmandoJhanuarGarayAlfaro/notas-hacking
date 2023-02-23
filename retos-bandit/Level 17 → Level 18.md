@@ -10,7 +10,7 @@ There are 2 files in the homedirectory: **passwords.old and passwords.new**. Th
 ## Datos de acceso al nivel
 - **Usuario:** bandit17
 - **Contraseña:** llave privada ssh desde bandit16
-- **Contraseña**: VwOSWtCA7lRK[[Level 17 → Level 18]]kTfbr2IDh6awj9RNZM5e
+- **Contraseña**: VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e
 
 ## Solución
 Acceder a bandit17
@@ -73,7 +73,7 @@ bandit17@bandit:~$ exit
 ## Notas adicionales
 | Comando | Descripcion |
 |---------|-------------|
-|  |  |
+|  diff file1 file2 | Ve las diferencias de los archivos linea por linea  |
 
 ## Referencias
 - []()
