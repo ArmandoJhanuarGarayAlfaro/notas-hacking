@@ -1,6 +1,6 @@
 # Retos Bandit
 
-# Level 22 → Level 23
+# Level 23 → Level 24
 
 ## Objetivo
 
