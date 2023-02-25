@@ -1,8 +1,6 @@
 # Retos Bandit
 
-Para documentar los retos bandit usaremos la siguiente plantilla
-
-# # Level X → Level X
+# Level 27 → Level 28
 
 ## Objetivo
 
@@ -14,7 +12,7 @@ Para documentar los retos bandit usaremos la siguiente plantilla
 ## Notas adicionales
 | Comando | Descripcion |
 |---------|-------------|
-|  |  |
+| Comando | descripcion |
 
 ## Referencias
-- []()
+- []
