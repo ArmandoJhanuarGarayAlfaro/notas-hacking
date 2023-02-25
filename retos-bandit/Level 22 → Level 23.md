@@ -2,7 +2,7 @@
 
 Para documentar los retos bandit usaremos la siguiente plantilla
 
-# # Level X → Level X
+# Level 22 → Level 23
 
 ## Objetivo
 
