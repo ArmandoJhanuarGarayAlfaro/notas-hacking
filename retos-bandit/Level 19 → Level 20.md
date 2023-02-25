@@ -26,7 +26,7 @@ bandit19@bandit:~$ exit
 ## Notas adicionales
 | Comando | Descripcion |
 |---------|-------------|
-|  |  |
+| stuid | Permite tener acceso a ciertos archivos como usuario o como grupo |
 
 ## Referencias
 - []()

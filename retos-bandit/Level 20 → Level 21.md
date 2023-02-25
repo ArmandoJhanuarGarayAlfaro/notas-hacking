@@ -25,7 +25,10 @@ bandit20@bandit:~$ exit
 ## Notas adicionales
 | Comando | Descripcion |
 |---------|-------------|
-|  |  |
+| jobs | para ver si algun comando está corriendo en background |
+| fg | traer a primer plano comandos en segundo plano |
+| crom | Ejecuta en segundo plano a un horario establecido automaticamente por la computadora.Los asteriscos indican cada cuando se ejecutan cada segundo, minuto, dia, mes |
+
 
 ## Referencias
 - []()
