@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d2a66fbdd9d041f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -56,6 +68,14 @@
             }
           },
           {
+            "id": "b188ec9ed45c6c79",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
             "id": "be94c125657c6c57",
             "type": "leaf",
             "state": {
@@ -69,16 +89,9 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "b188ec9ed45c6c79",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 23 → Level 24.md",
+                "file": "retos-bandit/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 23 → Level 24.md",
+                "file": "retos-bandit/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 23 → Level 24.md"
+                "file": "retos-bandit/Untitled.md"
               }
             }
           },
@@ -169,10 +182,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5e3e217cf7706ee9",
+  "active": "9a0c607fd32324cd",
   "lastOpenFiles": [
-    "retos-bandit/Level 22 → Level 23.md",
     "retos-bandit/Level 23 → Level 24.md",
+    "retos-bandit/Untitled.md",
+    "retos-bandit/Level 22 → Level 23.md",
     "retos-bandit/Plantilla.md",
     "retos-bandit/Level 21 → Level 22.md",
     "retos-bandit/Level 20 → Level 21.md",
