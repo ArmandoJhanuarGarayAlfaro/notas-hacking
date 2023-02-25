@@ -61,6 +61,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "retos-bandit/Level 26 → Level 27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30964c3c124f2af5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "retos-bandit/Untitled.md",
                 "mode": "source",
                 "source": false
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -205,10 +217,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7d9817961f8a42b9",
+  "active": "30964c3c124f2af5",
   "lastOpenFiles": [
-    "retos-bandit/Level 25 → Level 26.md",
+    "retos-bandit/Level 26 → Level 27.md",
     "retos-bandit/Untitled.md",
+    "retos-bandit/Level 25 → Level 26.md",
     "retos-bandit/Level 24 → Level 25.md",
     "retos-bandit/Level 23 → Level 24.md",
     "retos-bandit/Level 22 → Level 23.md",

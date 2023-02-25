@@ -1,6 +1,6 @@
-Retos Bandit
+# Retos Bandit
 
-# Level 27 → Level 28
+# Level 26 → Level 27
 
 ## Objetivo
 
@@ -15,4 +15,4 @@ Retos Bandit
 | Comando | descripcion |
 
 ## Referencias
-- []
+- []()
