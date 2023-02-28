@@ -38,7 +38,7 @@ bandit22@bandit:~$
 ## Notas adicionales
 | Comando | Descripcion |
 |---------|-------------|
-|  |  |
+| md5sum | genera un Hash md5 |
 
 ## Referencias
 - []()
