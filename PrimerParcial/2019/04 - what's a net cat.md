@@ -4,7 +4,7 @@
 Using netcat (nc) is going to be pretty important. Can you connect to `jupiter.challenges.picoctf.org` at port `64287` to get the flag?
 
 ## Pistas
-
+1. 
 ## Solución
 ```bash
 ajhagaal-picoctf@webshell:~$ nc jupiter.challenges.picoctf.org 64287 
