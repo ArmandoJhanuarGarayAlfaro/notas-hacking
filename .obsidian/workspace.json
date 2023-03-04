@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "368900bb8af1cb4d",
+        "id": "79658f0855e0263a",
         "type": "tabs",
         "children": [
           {
-            "id": "414f161d23a35d47",
+            "id": "3d047020127b13fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PrimerParcial/2019/09 - plumbing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PrimerParcial/2019/09 - plumbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PrimerParcial/2019/09 - plumbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PrimerParcial/2019/09 - plumbing.md"
+              }
             }
           },
           {
@@ -148,8 +156,26 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "414f161d23a35d47",
+  "active": "3d047020127b13fe",
   "lastOpenFiles": [
+    "PrimerParcial/Plantilla.md",
+    "PrimerParcial/2019/09 - plumbing.md",
+    "PrimerParcial/2019/08 - Based.md",
+    "PrimerParcial/2019/07 - First Grep.md",
+    "PrimerParcial/2019/05 - strings it.md",
+    "PrimerParcial/2019/06 - Bases.md",
+    "retos-bandit/Level 10 → Level 11.md",
+    "retos-bandit/Level 11 → Level 12.md",
+    "retos-bandit/Level 12 → Level 13.md",
+    "PrimerParcial/2019/01 - Lets Warm Up.md",
+    "PrimerParcial/2019/04 - what's a net cat.md",
+    "PrimerParcial/2019/03 - 2Warm.md",
+    "PrimerParcial/2019/02 - Warmed Up.md",
+    "retos-bandit/Plantilla.md",
+    "PrimerParcial/2022",
+    "PrimerParcial/2021",
+    "PrimerParcial/2019",
+    "PrimerParcial",
     "retos-bandit/Level 32 → Level 33.md",
     "retos-bandit/Level 33 → Level 34.md",
     "retos-bandit/Level 31 → Level 32.md",
@@ -161,18 +187,6 @@
     "retos-bandit/Level 25 → Level 26.md",
     "retos-bandit/Level 24 → Level 25.md",
     "retos-bandit/Level 23 → Level 24.md",
-    "retos-bandit/Level 22 → Level 23.md",
-    "retos-bandit/Plantilla.md",
-    "retos-bandit/Level 20 → Level 21.md",
-    "retos-bandit/Level 21 → Level 22.md",
-    "retos-bandit/Level 18 → Level 19.md",
-    "retos-bandit/Level 16 → Level 17.md",
-    "retos-bandit/Level 13 → Level 14.md",
-    "retos-bandit/Level 19 → Level 20.md",
-    "retos-bandit/Level 17 → Level 18.md",
-    "retos-bandit/Level 15 → Level 16.md",
-    "retos-bandit/Level 14 → Level 15.md",
-    "().md",
-    "retos-bandit/Level 20 → Level 21 1.md"
+    "retos-bandit/Level 22 → Level 23.md"
   ]
 }
