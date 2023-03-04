@@ -12,7 +12,21 @@ Can you invoke help flags for a tool or binary? [This program](https://mercury.
 
 ## Solución
 ```bash
+ajhagaal-picoctf@webshell:~$ wget https://mercury.picoctf.net/static/a00f554b16385d9970dae424f66ee1ab/warm
+--2023-03-04 23:44:31--  https://mercury.picoctf.net/static/a00f554b16385d9970dae424f66ee1ab/warm
+Resolving mercury.picoctf.net (mercury.picoctf.net)... 18.189.209.142
+Connecting to mercury.picoctf.net (mercury.picoctf.net)|18.189.209.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 10936 (11K) [application/octet-stream]
+Saving to: 'warm'
 
+warm                        100%[========================================>]  10.68K  --.-KB/s    in 0s      
+
+2023-03-04 23:44:32 (272 MB/s) - 'warm' saved [10936/10936]
+
+ajhagaal-picoctf@webshell:~$ ls
+README.txt  file  flag  warm
+ajhagaal-picoctf@webshell:~$ 
 ```
 
 ## Bandera
