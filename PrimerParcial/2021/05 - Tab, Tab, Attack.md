@@ -33,12 +33,28 @@ Archive:  Addadshashanammu.zip
    creating: Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnissiralis/Ularradallaku/
   inflating: Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnissiralis/Ularradallaku/fang-of-haynekhtnamet  
 ajhagaal-picoctf@webshell:~$ ls
+Addadshashanammu.zip  README.txt  decode  file  flag  ltdis.sh  netcat  static  warm
+ajhagaal-picoctf@webshell:~$ unzip Addadshashanammu.zip 
+Archive:  Addadshashanammu.zip
+   creating: Addadshashanammu/
+   creating: Addadshashanammu/Almurbalarammi/
+   creating: Addadshashanammu/Almurbalarammi/Ashalmimilkala/
+   creating: Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/
+   creating: Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/
+   creating: Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnissiralis/
+   creating: Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnissiralis/Ularradallaku/
+  inflating: Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnissiralis/Ularradallaku/fang-of-haynekhtnamet  
+ajhagaal-picoctf@webshell:~$ ls
 Addadshashanammu  Addadshashanammu.zip  README.txt  decode  file  flag  ltdis.sh  netcat  static  warm
-
+ajhagaal-picoctf@webshell:~/Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnis
+siralis/Ularradallaku$ ./fang-of-haynekhtnamet 
+*ZAP!* picoCTF{l3v3l_up!_t4k3_4_r35t!_d32e018c}
+ajhagaal-picoctf@webshell:~/Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnis
+siralis/Ularradallaku$ 
 ```
 
 ## Bandera
-* picoCTF{Respuesta}
+* picoCTF{l3v3l_up!_t4k3_4_r35t!_d32e018c}
 
 ## Notas adicionales
 | Comando | Descripcion |
