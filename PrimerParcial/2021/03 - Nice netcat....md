@@ -62,9 +62,29 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> print(cadena)
 picoCTF{g0d_k1ty!_n1ck1tty!_dfd6df}
 ```
+```bash
+ajhagaal-picoctf@webshell:~$ nano decode
+```
+```python
+#!/usr/bin/env python3
+import sys
+
+for line in sys.stdin:
+  print(chr(int(line)), end='')
+```
+```
+ajhagaal-picoctf@webshell:~$ ls
+README.txt  decode  file  flag  netcat  warm
+ajhagaal-picoctf@webshell:~$ chmod +x decode
+ajhagaal-picoctf@webshell:~$ ls
+README.txt  decode  file  flag  netcat  warm
+ajhagaal-picoctf@webshell:~$ nc mercury.picoctf.net 22902 | ./decode     
+picoCTF{g00d_k1tty!_n1c3_k1tty!_d3dfd6df}
+```
+
 
 ## Bandera
-* picoCTF{g0d_k1ty!_n1ck1tty!_dfd6df}
+* picoCTF{g00d_k1tty!_n1c3_k1tty!_d3dfd6df}
 
 ## Notas adicionales
 | Comando | Descripcion |
@@ -73,3 +93,4 @@ picoCTF{g0d_k1ty!_n1ck1tty!_dfd6df}
 
 ## Referencias
 - [Conversor CyberChef](https://gchq.github.io/CyberChef/)
+- [Script conversor en python de rangos de numeros a ASCII](https://www.bugninja.de/en/nice-netcat/)
