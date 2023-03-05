@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "79658f0855e0263a",
+        "id": "b10067ac06ad874f",
         "type": "tabs",
         "children": [
           {
-            "id": "50cca61295071c31",
+            "id": "a525489812a91a49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PrimerParcial/2021/06 - Magikarp Ground Mission.md",
+                "file": "PrimerParcial/2022/02 - convertme.py.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e9a3ee03b4fd538",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PrimerParcial/2022/03 - Codebook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9b0ee3033fafded",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PrimerParcial/2022/04 - fixme1.py.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PrimerParcial/2021/06 - Magikarp Ground Mission.md",
+                "file": "PrimerParcial/2022/04 - fixme1.py.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PrimerParcial/2021/06 - Magikarp Ground Mission.md",
+                "file": "PrimerParcial/2022/04 - fixme1.py.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PrimerParcial/2021/06 - Magikarp Ground Mission.md"
+                "file": "PrimerParcial/2022/04 - fixme1.py.md"
               }
             }
           },
@@ -156,37 +181,37 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "50cca61295071c31",
+  "active": "b9b0ee3033fafded",
   "lastOpenFiles": [
-    "PrimerParcial/2021/05 - Tab, Tab, Attack.md",
-    "PrimerParcial/2021/06 - Magikarp Ground Mission.md",
     "PrimerParcial/Plantilla.md",
+    "PrimerParcial/2022/04 - fixme1.py.md",
+    "PrimerParcial/2022/03 - Codebook.md",
+    "PrimerParcial/2022/02 - convertme.py.md",
+    "PrimerParcial/2019/06 - Bases.md",
+    "PrimerParcial/2019/05 - strings it.md",
+    "PrimerParcial/2019/04 - what's a net cat.md",
+    "PrimerParcial/2019/03 - 2Warm.md",
+    "PrimerParcial/2019/02 - Warmed Up.md",
+    "PrimerParcial/2022/01 - runme.py.md",
+    "PrimerParcial/2021/06 - Magikarp Ground Mission.md",
+    "PrimerParcial/2021/05 - Tab, Tab, Attack.md",
     "PrimerParcial/2021/04 - Static ain't always noise.md",
     "PrimerParcial/2021/03 - Nice netcat....md",
     "retos-bandit/Level 22 → Level 23.md",
     "retos-bandit/Level 21 → Level 22.md",
     "retos-bandit/Level 18 → Level 19.md",
     "PrimerParcial/2021/02 - Wave a flag.md",
-    "PrimerParcial/2019/04 - what's a net cat.md",
-    "PrimerParcial/2019/03 - 2Warm.md",
-    "PrimerParcial/2019/02 - Warmed Up.md",
     "PrimerParcial/2019/01 - Lets Warm Up.md",
-    "PrimerParcial/2019/05 - strings it.md",
     "PrimerParcial/2021/01 - Obedient Cat.md",
     "PrimerParcial/2019/09 - plumbing.md",
     "PrimerParcial/2019/08 - Based.md",
     "PrimerParcial/2019/07 - First Grep.md",
-    "PrimerParcial/2019/06 - Bases.md",
     "retos-bandit/Level 10 → Level 11.md",
     "retos-bandit/Level 11 → Level 12.md",
     "retos-bandit/Level 12 → Level 13.md",
-    "retos-bandit/Plantilla.md",
     "PrimerParcial/2022",
     "PrimerParcial/2021",
     "PrimerParcial/2019",
-    "PrimerParcial",
-    "retos-bandit/Level 32 → Level 33.md",
-    "retos-bandit/Level 33 → Level 34.md",
-    "retos-bandit/Level 31 → Level 32.md"
+    "PrimerParcial"
   ]
 }
