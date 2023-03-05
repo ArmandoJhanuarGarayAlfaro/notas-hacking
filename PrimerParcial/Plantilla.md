@@ -2,7 +2,9 @@
 
 ## Descripcion Reto
 
+
 ## Pistas
+1. 
 
 ## Solución
 ```bash

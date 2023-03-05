@@ -30,7 +30,7 @@ ajhagaal-picoctf@webshell:~$
 ```
 
 ## Bandera
-* picoCTF{Respuesta}
+* picoCTF{s4n1ty_v3r1f13d_28e8376d}
 
 ## Notas adicionales
 | Comando | Descripcion |

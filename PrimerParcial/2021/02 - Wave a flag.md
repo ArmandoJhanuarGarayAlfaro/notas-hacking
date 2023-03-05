@@ -26,16 +26,29 @@ warm                        100%[========================================>]  10.
 
 ajhagaal-picoctf@webshell:~$ ls
 README.txt  file  flag  warm
+ajhagaal-picoctf@webshell:~$ ls -l
+total 308
+-rw-r--r-- 1 root             root               4443 Mar  4 22:31 README.txt
+-rw-rw-r-- 1 ajhagaal-picoctf ajhagaal-picoctf 288821 Mar  4 22:33 file
+-rw-rw-r-- 1 ajhagaal-picoctf ajhagaal-picoctf     34 Mar 16  2021 flag
+-rw-rw-r-- 1 ajhagaal-picoctf ajhagaal-picoctf  10936 Mar 16  2021 warm
+ajhagaal-picoctf@webshell:~$ sudo chmod +x warm
+-bash: sudo: command not found
+ajhagaal-picoctf@webshell:~$ chmod +x warm
+ajhagaal-picoctf@webshell:~$ ./warm -h
+Oh, help? I actually don't do much, but I do have this flag here: picoCTF{b1scu1ts_4nd_gr4vy_18788aaa}
 ajhagaal-picoctf@webshell:~$ 
+
+
 ```
 
 ## Bandera
-* picoCTF{Respuesta}
+* picoCTF{b1scu1ts_4nd_gr4vy_18788aaa}
 
 ## Notas adicionales
 | Comando | Descripcion |
 |---------|-------------|
-|  |  |
+| chmod +x | Da permisos de ejecucion |
 
 ## Referencias
 - []()
