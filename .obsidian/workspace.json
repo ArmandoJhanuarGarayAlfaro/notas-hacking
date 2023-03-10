@@ -11,9 +11,11 @@
             "id": "32a8d48390861c41",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Web-Exploitation/img/Pasted image 20230309183823.png"
+                "file": "Web-Exploitation/06 - Client-side-again.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/img/Pasted image 20230309183823.png",
+                "file": "Web-Exploitation/06 - Client-side-again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web-Exploitation/img/Pasted image 20230309183823.png",
+                "file": "Web-Exploitation/06 - Client-side-again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web-Exploitation/img/Pasted image 20230309183823.png"
+                "file": "Web-Exploitation/06 - Client-side-again.md"
               }
             }
           },
@@ -156,6 +158,7 @@
   },
   "active": "32a8d48390861c41",
   "lastOpenFiles": [
+    "Web-Exploitation/img/Pasted image 20230309183823.png",
     "Web-Exploitation/img/Pasted image 20230309131629.png",
     "Web-Exploitation/img/Pasted image 20230309131620.png",
     "Web-Exploitation/img/Pasted image 20230309131524.png",
@@ -166,7 +169,6 @@
     "Web-Exploitation/img/Pasted image 20230309125905.png",
     "Web-Exploitation/img/Pasted image 20230309125209.png",
     "Web-Exploitation/img/Pasted image 20230309123708.png",
-    "Web-Exploitation/img/Pasted image 20230309123628.png",
     "Web-Exploitation/06 - Client-side-again.md",
     "Web-Exploitation/05 - picobrowser.md",
     "Web-Exploitation/03 - logon.md",
