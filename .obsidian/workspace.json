@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web-Exploitation/06 - Client-side-again.md",
+                "file": "Web-Exploitation/08 - Irish-Name-Repo 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03ee5d4b27989a02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web-Exploitation/09 - JaWT Scratchpad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12bcf3ec13ef3aee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web-Exploitation/07 - Irish-Name-Repo 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/06 - Client-side-again.md",
+                "file": "Web-Exploitation/09 - JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web-Exploitation/06 - Client-side-again.md",
+                "file": "Web-Exploitation/09 - JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web-Exploitation/06 - Client-side-again.md"
+                "file": "Web-Exploitation/09 - JaWT Scratchpad.md"
               }
             }
           },
@@ -156,26 +181,29 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "32a8d48390861c41",
+  "active": "03ee5d4b27989a02",
   "lastOpenFiles": [
-    "Web-Exploitation/img/Pasted image 20230309183823.png",
-    "Web-Exploitation/img/Pasted image 20230309131629.png",
-    "Web-Exploitation/img/Pasted image 20230309131620.png",
-    "Web-Exploitation/img/Pasted image 20230309131524.png",
-    "Web-Exploitation/img/Pasted image 20230309131144.png",
-    "Web-Exploitation/img/Pasted image 20230309130833.png",
-    "Web-Exploitation/img/Pasted image 20230309130733.png",
-    "Web-Exploitation/img/Pasted image 20230309130057.png",
-    "Web-Exploitation/img/Pasted image 20230309125905.png",
-    "Web-Exploitation/img/Pasted image 20230309125209.png",
-    "Web-Exploitation/img/Pasted image 20230309123708.png",
-    "Web-Exploitation/06 - Client-side-again.md",
+    "Pasted image 20230314124742.png",
+    "Pasted image 20230314124603.png",
+    "Web-Exploitation/07 - Irish-Name-Repo 1.md",
+    "Web-Exploitation/09 - JaWT Scratchpad.md",
+    "Web-Exploitation/Plantilla.md",
+    "Web-Exploitation/08 - Irish-Name-Repo 2.md",
+    "Pasted image 20230314123051.png",
+    "Pasted image 20230314123031.png",
+    "Pasted image 20230314122820.png",
+    "Pasted image 20230314122726.png",
+    "Pasted image 20230314122224.png",
+    "Pasted image 20230314122143.png",
+    "Pasted image 20230314122122.png",
+    "Web-Exploitation/img/Pasted image 20230314121614.png",
     "Web-Exploitation/05 - picobrowser.md",
+    "Web-Exploitation/06 - Client-side-again.md",
+    "Web-Exploitation/img/Pasted image 20230309183823.png",
     "Web-Exploitation/03 - logon.md",
     "Web-Exploitation/04 - dont-use-client-side.md",
     "Web-Exploitation/01 - Insp3ct0r.md",
     "Web-Exploitation/02 - where are the robots.md",
-    "Web-Exploitation/Plantilla.md",
     "Pasted image 20230309125905.png.md",
     "Web-Exploitation/img",
     "PrimerParcial/Plantilla.md",
@@ -193,9 +221,6 @@
     "PrimerParcial/2022/04 - fixme1.py.md",
     "PrimerParcial/2022/03 - Codebook.md",
     "PrimerParcial/2022/02 - convertme.py.md",
-    "PrimerParcial/2019/05 - strings it.md",
-    "PrimerParcial/2019/04 - what's a net cat.md",
-    "PrimerParcial/2019/03 - 2Warm.md",
     "PrimerParcial/2022",
     "PrimerParcial/2021",
     "PrimerParcial/2019",
