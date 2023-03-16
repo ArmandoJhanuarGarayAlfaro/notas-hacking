@@ -11,8 +11,12 @@
             "id": "b72bdcd41fefec11",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web-Exploitation/10 - Irish-Name-Repo 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -24,19 +28,8 @@
                 "file": "Web-Exploitation/img/Pasted image 20230314122122.png"
               }
             }
-          },
-          {
-            "id": "abb1b562af2429e4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Web-Exploitation/img/Pasted image 20230314122224.png"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/img/Pasted image 20230314122224.png",
+                "file": "Web-Exploitation/10 - Irish-Name-Repo 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web-Exploitation/img/Pasted image 20230314122224.png",
+                "file": "Web-Exploitation/10 - Irish-Name-Repo 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web-Exploitation/img/Pasted image 20230314122224.png"
+                "file": "Web-Exploitation/10 - Irish-Name-Repo 3.md"
               }
             }
           },
@@ -173,7 +166,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "9a0c607fd32324cd",
+  "active": "b72bdcd41fefec11",
   "lastOpenFiles": [
     "Web-Exploitation/img/Pasted image 20230314122143.png",
     "Web-Exploitation/img/Pasted image 20230314122122.png",
