@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "346662525188156b",
+        "id": "157db0b06ca48db0",
         "type": "tabs",
         "children": [
           {
-            "id": "34cced9c2acd6a86",
+            "id": "9e6c6ccfcddacb2d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Web-Exploitation/img/Pasted image 20230316122032.png"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web-Exploitation/img/Pasted image 20230316122032.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web-Exploitation/img/Pasted image 20230316122032.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web-Exploitation/img/Pasted image 20230316122032.png"
+              }
             }
           },
           {
@@ -148,23 +154,26 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "34cced9c2acd6a86",
+  "active": "9a0c607fd32324cd",
   "lastOpenFiles": [
-    "Web-Exploitation/img/Pasted image 20230314122122.png",
+    "Web-Exploitation/13 - Scavenger Hunt.md",
+    "Web-Exploitation/12 - Cookies.md",
+    "Web-Exploitation/11 - GET aHEAD.md",
+    "Web-Exploitation/Plantilla.md",
+    "Web-Exploitation/img/Pasted image 20230316125531.png",
+    "Web-Exploitation/img/Pasted image 20230316125421.png",
+    "Web-Exploitation/img/Pasted image 20230316124209.png",
+    "Web-Exploitation/img/Pasted image 20230316122032.png",
     "Web-Exploitation/10 - Irish-Name-Repo 3.md",
+    "Web-Exploitation/img/Pasted image 20230314122122.png",
     "Web-Exploitation/img/Pasted image 20230314122143.png",
     "Web-Exploitation/09 - JaWT Scratchpad.md",
     "Web-Exploitation/08 - Irish-Name-Repo 2.md",
     "Web-Exploitation/img/Pasted image 20230314131914.png",
     "Web-Exploitation/img/Pasted image 20230314131901.png",
-    "Web-Exploitation/Plantilla.md",
     "retos-bandit/Pasted image 20230314130645.png",
     "Web-Exploitation/img/Pasted image 20230314125424.png",
-    "Web-Exploitation/img/Pasted image 20230314125347.png",
-    "Web-Exploitation/img/Pasted image 20230314124742.png",
-    "Web-Exploitation/img/Pasted image 20230314124603.png",
     "Web-Exploitation/07 - Irish-Name-Repo 1.md",
-    "Web-Exploitation/img/Pasted image 20230314123051.png",
     "Web-Exploitation/05 - picobrowser.md",
     "Web-Exploitation/06 - Client-side-again.md",
     "Web-Exploitation/03 - logon.md",
@@ -185,8 +194,6 @@
     "PrimerParcial/2022/07 - PW Crack 1.md",
     "PrimerParcial/2022/06 - Glitch Cat.md",
     "PrimerParcial/2022/05 - fixme2.py.md",
-    "PrimerParcial/2022/04 - fixme1.py.md",
-    "PrimerParcial/2022/03 - Codebook.md",
     "PrimerParcial/2022",
     "PrimerParcial/2021",
     "PrimerParcial/2019",
