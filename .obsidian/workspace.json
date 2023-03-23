@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "157db0b06ca48db0",
+        "id": "462899d21783a7f0",
         "type": "tabs",
         "children": [
           {
-            "id": "9e6c6ccfcddacb2d",
+            "id": "f113a0137331f08b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Web-Exploitation/img/Pasted image 20230316122032.png"
+                "file": "Forensic/Plantilla.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/img/Pasted image 20230316122032.png",
+                "file": "Forensic/Plantilla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web-Exploitation/img/Pasted image 20230316122032.png",
+                "file": "Forensic/Plantilla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web-Exploitation/img/Pasted image 20230316122032.png"
+                "file": "Forensic/Plantilla.md"
               }
             }
           },
@@ -154,32 +156,40 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "9a0c607fd32324cd",
+  "active": "f113a0137331f08b",
   "lastOpenFiles": [
-    "Web-Exploitation/13 - Scavenger Hunt.md",
-    "Web-Exploitation/12 - Cookies.md",
-    "Web-Exploitation/11 - GET aHEAD.md",
+    "Forensic/05 - What Lies Within.md",
+    "Forensic/Plantilla.md",
+    "Forensic/04 - extensions.md",
+    "Forensic/03 - shark on wire 1.md",
+    "Forensic/Untitled",
+    "Pasted image 20230323124143.png",
+    "Pasted image 20230323123503.png",
+    "Pasted image 20230323123400.png",
+    "Forensic/02 - So Meta.md",
+    "Forensic/01 - Glory of the Garden.md",
     "Web-Exploitation/Plantilla.md",
+    "Forensic",
+    "Web-Exploitation/13 - Scavenger Hunt.md",
+    "Web-Exploitation/11 - GET aHEAD.md",
+    "Web-Exploitation/10 - Irish-Name-Repo 3.md",
+    "Web-Exploitation/09 - JaWT Scratchpad.md",
+    "Web-Exploitation/08 - Irish-Name-Repo 2.md",
+    "Web-Exploitation/07 - Irish-Name-Repo 1.md",
+    "Web-Exploitation/06 - Client-side-again.md",
+    "Web-Exploitation/05 - picobrowser.md",
+    "Web-Exploitation/04 - dont-use-client-side.md",
+    "Web-Exploitation/03 - logon.md",
+    "Web-Exploitation/02 - where are the robots.md",
+    "Web-Exploitation/01 - Insp3ct0r.md",
+    "Web-Exploitation/img/Pasted image 20230316122032.png",
+    "Web-Exploitation/12 - Cookies.md",
     "Web-Exploitation/img/Pasted image 20230316125531.png",
     "Web-Exploitation/img/Pasted image 20230316125421.png",
     "Web-Exploitation/img/Pasted image 20230316124209.png",
-    "Web-Exploitation/img/Pasted image 20230316122032.png",
-    "Web-Exploitation/10 - Irish-Name-Repo 3.md",
     "Web-Exploitation/img/Pasted image 20230314122122.png",
     "Web-Exploitation/img/Pasted image 20230314122143.png",
-    "Web-Exploitation/09 - JaWT Scratchpad.md",
-    "Web-Exploitation/08 - Irish-Name-Repo 2.md",
     "Web-Exploitation/img/Pasted image 20230314131914.png",
-    "Web-Exploitation/img/Pasted image 20230314131901.png",
-    "retos-bandit/Pasted image 20230314130645.png",
-    "Web-Exploitation/img/Pasted image 20230314125424.png",
-    "Web-Exploitation/07 - Irish-Name-Repo 1.md",
-    "Web-Exploitation/05 - picobrowser.md",
-    "Web-Exploitation/06 - Client-side-again.md",
-    "Web-Exploitation/03 - logon.md",
-    "Web-Exploitation/04 - dont-use-client-side.md",
-    "Web-Exploitation/01 - Insp3ct0r.md",
-    "Web-Exploitation/02 - where are the robots.md",
     "Pasted image 20230309125905.png.md",
     "Web-Exploitation/img",
     "PrimerParcial/Plantilla.md",
@@ -188,12 +198,6 @@
     "PrimerParcial/2019/06 - Bases.md",
     "Web-Exploitation",
     "PrimerParcial/2019/01 - Lets Warm Up.md",
-    "PrimerParcial/2022/01 - runme.py.md",
-    "PrimerParcial/2022/09 - PW Crack 3.md",
-    "PrimerParcial/2022/08 - PW Crack 2.md",
-    "PrimerParcial/2022/07 - PW Crack 1.md",
-    "PrimerParcial/2022/06 - Glitch Cat.md",
-    "PrimerParcial/2022/05 - fixme2.py.md",
     "PrimerParcial/2022",
     "PrimerParcial/2021",
     "PrimerParcial/2019",
