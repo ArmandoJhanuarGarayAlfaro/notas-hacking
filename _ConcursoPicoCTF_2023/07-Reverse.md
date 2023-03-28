@@ -4,7 +4,7 @@
 Try reversing this file? Can ya? I forgot the password to this [file](https://artifacts.picoctf.net/c/273/ret). Please find it for me?
 
 ## Pistas
-(None)
+* (None)
 
 ## Solucion 
 ```bash

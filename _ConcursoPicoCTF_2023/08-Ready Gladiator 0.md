@@ -1,10 +1,11 @@
 # Ready Gladiator 0
 
 ## Descripcion
-
 Can you make a CoreWars warrior that always loses, no ties? Your opponent is the Imp. The source is available [here](https://artifacts.picoctf.net/c/309/imp.red). If you wanted to pit the Imp against himself, you could download the Imp and connect to the CoreWars server like this: `nc saturn.picoctf.net 55776 < imp.red`
+
 ## Pistas
-(None)
+* (None)
+
 ## Solucion 
 ```bash
  ┌──(kali㉿kali)-[~/Downloads]
@@ -61,4 +62,6 @@ picoCTF{h3r0_t0_z3r0_4m1r1gh7_f1e207c4}
 * picoCTF{h3r0_t0_z3r0_4m1r1gh7_f1e207c4}
 
 ## Notas Adicionales 
-
+|comando|descripcion|
+|---|---|
+|xx|xx|

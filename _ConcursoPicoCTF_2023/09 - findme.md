@@ -2,9 +2,7 @@
 
 ## Descripcion
 Help us test the form by submiting the username as `test` and password as `test!`
-
 Additional details will be available after launching your challenge instance.
-
 The website running [here](http://saturn.picoctf.net:57556/).
 
 ## Pistas
