@@ -48,13 +48,11 @@ original:
 WTBkc2FtSXdUbFZTYm5ScFdWaE9iRTVxVW1aaWFrNTZaRVJPYTFneVVuQlpla0pyU1ZjME5GZ3lV
 WGRrTWpWelRVUlNhMDB5VW1aYQpiVnB0V2xSWk0wMTZhRGxEWnowOUNnPT0K
 
-
 resultado:
 Y0dsamIwTlVSbnRpWVhObE5qUmZiak56ZEROa1gyUnBZekJrSVc0NFgyUXdkMjVzTURSa00yUmZa
 bVptWlRZM016aDlDZz09Cg==
 
--------------------------------------------------------------------------
-
+---
 original:
 Y0dsamIwTlVSbnRpWVhObE5qUmZiak56ZEROa1gyUnBZekJrSVc0NFgyUXdkMjVzTURSa00yUmZa
 bVptWlRZM016aDlDZz09Cg==
@@ -62,7 +60,7 @@ bVptWlRZM016aDlDZz09Cg==
 resultado:
 cGljb0NURntiYXNlNjRfbjNzdDNkX2RpYzBkIW44X2Qwd25sMDRkM2RfZmZmZTY3Mzh9Cg==
 
--------------------------------------------------------------------------
+---
 original:
 cGljb0NURntiYXNlNjRfbjNzdDNkX2RpYzBkIW44X2Qwd25sMDRkM2RfZmZmZTY3Mzh9Cg==
 
