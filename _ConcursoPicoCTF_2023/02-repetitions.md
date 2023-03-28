@@ -7,10 +7,11 @@ Multiple decoding is always good.
 
 ## Solucion 
 
-* decodificar el base 64 del archivo dado, hasta encontrar la bandera
+decodificar el base 64 del archivo dado, hasta encontrar la bandera
 
-* *#### **original:**
-* VmpGU1EyRXlUWGxTYmxKVVYwZFNWbGxyV21GV1JteDBUbFpPYWxKdFVsaFpWVlUxWVZaS1ZWWnVhRmRXZWtab1dWWmtSMk5yTlZWWApiVVpUVm10d1VWZFdVa2RpYlZaWFZtNVdVZ3BpU0VKeldWUkNk
+#### **original:**
+VmpGU1EyRXlUWGxTYmxKVVYwZFNWbGxyV21GV1JteDBUbFpPYWxKdFVsaFpWVlUxWVZaS1ZWWnVh
+RmRXZWtab1dWWmtSMk5yTlZWWApiVVpUVm10d1VWZFdVa2RpYlZaWFZtNVdVZ3BpU0VKeldWUkNk
 MlZXVlhoWGJYQk9VbFJXU0ZkcVRuTldaM0JZVWpGS2VWWkdaSGRXCk1sWnpWV3hhVm1KRk5XOVVW
 VkpEVGxaYVdFMVhSbHBWV0VKd1ZtMDFRMDFHV1hsbFJrNVlDbUY2UWpOVVZsSmhZVVpLU0dWRlZs
 aGkKYlRrelZERldUMkpzUWxWTlJYTkxDZz09Cg==
