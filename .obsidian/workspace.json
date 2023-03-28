@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ConcursoPicoCTF_2023/05-rotation.md",
+                "file": "ConcursoPicoCTF_2023/10 - MatchTheRegex.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ConcursoPicoCTF_2023/05-rotation.md",
+                "file": "ConcursoPicoCTF_2023/10 - MatchTheRegex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ConcursoPicoCTF_2023/05-rotation.md",
+                "file": "ConcursoPicoCTF_2023/10 - MatchTheRegex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ConcursoPicoCTF_2023/05-rotation.md"
+                "file": "ConcursoPicoCTF_2023/10 - MatchTheRegex.md"
               }
             }
           },
@@ -158,9 +158,13 @@
   },
   "active": "d591194f7807883b",
   "lastOpenFiles": [
-    "ConcursoPicoCTF_2023/11 - PcapPoisoning.md",
-    "ConcursoPicoCTF_2023/12 - Safe Opener 2.md",
+    "ConcursoPicoCTF_2023/09 - findme.md",
+    "ConcursoPicoCTF_2023/08-Ready Gladiator 0.md",
     "ConcursoPicoCTF_2023/10 - MatchTheRegex.md",
+    "ConcursoPicoCTF_2023/12 - Safe Opener 2.md",
+    "ConcursoPicoCTF_2023/11 - PcapPoisoning.md",
+    "ConcursoPicoCTF_2023/06-ReadMyCert.md",
+    "ConcursoPicoCTF_2023/05-rotation.md",
     "Forensic/10 - shark on wire 2.md",
     "Forensic/img/Pasted image 20230328170658.png",
     "Forensic/img/Pasted image 20230328170213.png",
@@ -191,13 +195,9 @@
     "retos-bandit/Level 0.md",
     "retos-bandit/Level 0 → Level 1.md",
     "retos-bandit/Level 1 → Level 2.md",
-    "retos-bandit/Level 4 → Level 5.md",
-    "retos-bandit/Level 6 → Level 7.md",
     "Forensic/img/Pasted image 20230323124143.png",
     "Forensic/img",
     "Untitled",
-    "Web-Exploitation/12 - Cookies.md",
-    "Web-Exploitation/03 - logon.md",
     "Forensic",
     "Web-Exploitation/img",
     "Web-Exploitation",
