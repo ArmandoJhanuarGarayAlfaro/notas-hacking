@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ConcursoPicoCTF_2023/11 - PcapPoisoning.md",
+                "file": "_ConcursoPicoCTF_2023/12 - Safe Opener 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ConcursoPicoCTF_2023/11 - PcapPoisoning.md",
+                "file": "_ConcursoPicoCTF_2023/12 - Safe Opener 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ConcursoPicoCTF_2023/11 - PcapPoisoning.md",
+                "file": "_ConcursoPicoCTF_2023/12 - Safe Opener 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ConcursoPicoCTF_2023/11 - PcapPoisoning.md"
+                "file": "_ConcursoPicoCTF_2023/12 - Safe Opener 2.md"
               }
             }
           },
@@ -156,15 +156,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d591194f7807883b",
+  "active": "9a0c607fd32324cd",
   "lastOpenFiles": [
-    "ConcursoPicoCTF_2023/10 - MatchTheRegex.md",
-    "ConcursoPicoCTF_2023/09 - findme.md",
-    "ConcursoPicoCTF_2023/08-Ready Gladiator 0.md",
-    "ConcursoPicoCTF_2023/12 - Safe Opener 2.md",
-    "ConcursoPicoCTF_2023/11 - PcapPoisoning.md",
-    "ConcursoPicoCTF_2023/06-ReadMyCert.md",
-    "ConcursoPicoCTF_2023/05-rotation.md",
+    "_ConcursoPicoCTF_2023/11 - PcapPoisoning.md",
+    "_ConcursoPicoCTF_2023/10 - MatchTheRegex.md",
+    "_ConcursoPicoCTF_2023/09 - findme.md",
+    "_ConcursoPicoCTF_2023/08-Ready Gladiator 0.md",
+    "_ConcursoPicoCTF_2023/12 - Safe Opener 2.md",
+    "_ConcursoPicoCTF_2023/06-ReadMyCert.md",
+    "_ConcursoPicoCTF_2023/05-rotation.md",
     "Forensic/10 - shark on wire 2.md",
     "Forensic/img/Pasted image 20230328170658.png",
     "Forensic/img/Pasted image 20230328170213.png",
