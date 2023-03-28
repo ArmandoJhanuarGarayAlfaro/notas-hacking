@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "462899d21783a7f0",
+        "id": "48b18eee188b98df",
         "type": "tabs",
         "children": [
           {
-            "id": "f113a0137331f08b",
+            "id": "d591194f7807883b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/Plantilla.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forensic/Plantilla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forensic/Plantilla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Forensic/Plantilla.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,51 +148,52 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f113a0137331f08b",
+  "active": "9a0c607fd32324cd",
   "lastOpenFiles": [
-    "Forensic/05 - What Lies Within.md",
+    "Forensic/10 - shark on wire 2.md",
+    "Forensic/img/Pasted image 20230328170658.png",
+    "Forensic/img/Pasted image 20230328170213.png",
     "Forensic/Plantilla.md",
+    "Forensic/09 - like1000.md",
+    "Forensic/img/Pasted image 20230328165348.png",
+    "Forensic/08 - c0rrupt.md",
+    "Forensic/img/Pasted image 20230328163025.png",
+    "mystery 1",
+    "mystery",
     "Forensic/04 - extensions.md",
-    "Forensic/03 - shark on wire 1.md",
-    "Forensic/Untitled",
-    "Pasted image 20230323124143.png",
-    "Pasted image 20230323123503.png",
-    "Pasted image 20230323123400.png",
+    "Forensic/07 - WhitePages.md",
+    "Forensic/06 - m00nwalk.md",
+    "Forensic/img/Pasted image 20230328113938.png",
+    "Forensic/img/Pasted image 20230328113759.png",
+    "Forensic/img/Pasted image 20230328113744.png",
+    "Forensic/img/Pasted image 20230328111921.png",
+    "Forensic/img/Pasted image 20230328111816.png",
     "Forensic/02 - So Meta.md",
+    "Forensic/03 - shark on wire 1.md",
     "Forensic/01 - Glory of the Garden.md",
-    "Web-Exploitation/Plantilla.md",
-    "Forensic",
+    "retos-bandit/Level 27 → Level 28.md",
+    "retos-bandit/Level 28 → Level 29.md",
+    "retos-bandit/Level 29 → Level 30.md",
+    "retos-bandit/Level 31 → Level 32.md",
+    "retos-bandit/Level 33 → Level 34.md",
+    "retos-bandit/Level 32 → Level 33.md",
+    "retos-bandit/Level 0.md",
+    "retos-bandit/Level 0 → Level 1.md",
+    "retos-bandit/Level 1 → Level 2.md",
+    "retos-bandit/Level 4 → Level 5.md",
+    "retos-bandit/Level 6 → Level 7.md",
+    "Forensic/img/Pasted image 20230323124143.png",
+    "Forensic/img",
+    "Untitled",
+    "Web-Exploitation/12 - Cookies.md",
+    "Web-Exploitation/03 - logon.md",
     "Web-Exploitation/13 - Scavenger Hunt.md",
     "Web-Exploitation/11 - GET aHEAD.md",
-    "Web-Exploitation/10 - Irish-Name-Repo 3.md",
-    "Web-Exploitation/09 - JaWT Scratchpad.md",
-    "Web-Exploitation/08 - Irish-Name-Repo 2.md",
-    "Web-Exploitation/07 - Irish-Name-Repo 1.md",
-    "Web-Exploitation/06 - Client-side-again.md",
-    "Web-Exploitation/05 - picobrowser.md",
-    "Web-Exploitation/04 - dont-use-client-side.md",
-    "Web-Exploitation/03 - logon.md",
-    "Web-Exploitation/02 - where are the robots.md",
-    "Web-Exploitation/01 - Insp3ct0r.md",
-    "Web-Exploitation/img/Pasted image 20230316122032.png",
-    "Web-Exploitation/12 - Cookies.md",
-    "Web-Exploitation/img/Pasted image 20230316125531.png",
-    "Web-Exploitation/img/Pasted image 20230316125421.png",
-    "Web-Exploitation/img/Pasted image 20230316124209.png",
-    "Web-Exploitation/img/Pasted image 20230314122122.png",
-    "Web-Exploitation/img/Pasted image 20230314122143.png",
-    "Web-Exploitation/img/Pasted image 20230314131914.png",
-    "Pasted image 20230309125905.png.md",
+    "Forensic",
     "Web-Exploitation/img",
-    "PrimerParcial/Plantilla.md",
-    "retos-bandit/Plantilla.md",
-    "READNAME.md",
-    "PrimerParcial/2019/06 - Bases.md",
     "Web-Exploitation",
-    "PrimerParcial/2019/01 - Lets Warm Up.md",
     "PrimerParcial/2022",
     "PrimerParcial/2021",
-    "PrimerParcial/2019",
-    "PrimerParcial"
+    "PrimerParcial/2019"
   ]
 }
