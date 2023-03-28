@@ -4,7 +4,7 @@
 You will find the flag after decrypting this file Download the encrypted flag [here](https://artifacts.picoctf.net/c/446/encrypted.txt).
 
 ## Pistas
-Sometimes rotation is right
+* Sometimes rotation is right
 
 ## Solucion 
 Se hizo rotation a la izquierda 8 veces sobre:

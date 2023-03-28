@@ -48,14 +48,14 @@ enc_flag  flag.png  secret
 ┌──(kali㉿kali)-[~/Downloads]
 └─$ cd secret   
                                                                                 
-┌──(alexia㉿alexHM)-[~/Downloads/secret]
+┌──(kali㉿kali)-[~/Downloads/secret]
 └─$ ls
 flag.png                  
 ```
 
 ![[flag.png]]
 ## Bandera
-picoCTF{Hiddinng_An_imag3_within_@n_ima9e_5fbf3ff9}
+* picoCTF{Hiddinng_An_imag3_within_@n_ima9e_5fbf3ff9}
 
 ## Notas Adicionales 
 |comando|descripcion|
