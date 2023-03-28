@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ConcursoPicoCTF_2023/03-Rules 2023.md",
+                "file": "_ConcursoPicoCTF_2023/04-hideme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ConcursoPicoCTF_2023/03-Rules 2023.md",
+                "file": "_ConcursoPicoCTF_2023/04-hideme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ConcursoPicoCTF_2023/03-Rules 2023.md",
+                "file": "_ConcursoPicoCTF_2023/04-hideme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ConcursoPicoCTF_2023/03-Rules 2023.md"
+                "file": "_ConcursoPicoCTF_2023/04-hideme.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "d591194f7807883b",
   "lastOpenFiles": [
+    "_ConcursoPicoCTF_2023/03-Rules 2023.md",
     "_ConcursoPicoCTF_2023/02-repetitions.md",
     "_ConcursoPicoCTF_2023/01-money-ware.md",
     "Forensic/09 - like1000.md",
@@ -194,7 +195,6 @@
     "retos-bandit/Level 29 → Level 30.md",
     "retos-bandit/Level 31 → Level 32.md",
     "retos-bandit/Level 33 → Level 34.md",
-    "retos-bandit/Level 32 → Level 33.md",
     "Forensic/img/Pasted image 20230323124143.png",
     "Forensic/img",
     "Untitled",

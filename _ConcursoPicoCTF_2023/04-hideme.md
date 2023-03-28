@@ -4,7 +4,7 @@
 Every file gets a flag. The SOC analyst saw one image been sent back and forth between two people. They decided to investigate and found out that there was more than what meets the eye [here](https://artifacts.picoctf.net/c/488/flag.png).
 
 ## Pistas
-(None)
+* (None)
 
 ## Solucion 
 ```bash
@@ -33,7 +33,7 @@ Warning                         : [minor] Trailer data after PNG IEND chunk
 Image Size                      : 512x504
 Megapixels                      : 0.258
                                                                                 
-┌──(alexia㉿kali)-[~/Downloads]
+┌──(kali㉿kali)-[~/Downloads]
 └─$ unzip flag.png
 Archive:  flag.png
 warning [flag.png]:  39739 extra bytes at beginning or within zipfile
@@ -41,11 +41,11 @@ warning [flag.png]:  39739 extra bytes at beginning or within zipfile
    creating: secret/
   inflating: secret/flag.png         
                                                                                 
-┌──(alexia㉿alexHM)-[~/Downloads]
+┌──(kali㉿kali)-[~/Downloads]
 └─$ ls    
-docker-desktop-4.17.0-amd64.deb  enc_flag  flag.png  secret
+enc_flag  flag.png  secret
       
-┌──(alexia㉿alexHM)-[~/Downloads]
+┌──(kali㉿kali)-[~/Downloads]
 └─$ cd secret   
                                                                                 
 ┌──(alexia㉿alexHM)-[~/Downloads/secret]
