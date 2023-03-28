@@ -9,7 +9,7 @@ Every file gets a flag. The SOC analyst saw one image been sent back and forth b
 ## Solucion 
 ```bash
                                                                                 
-┌──(alexia㉿alexHM)-[~/Downloads]
+┌──(kali㉿kali)-[~/Downloads]
 └─$ exiftool flag.png 
 ExifTool Version Number         : 12.57
 File Name                       : flag.png
@@ -33,7 +33,7 @@ Warning                         : [minor] Trailer data after PNG IEND chunk
 Image Size                      : 512x504
 Megapixels                      : 0.258
                                                                                 
-┌──(alexia㉿alexHM)-[~/Downloads]
+┌──(alexia㉿kali)-[~/Downloads]
 └─$ unzip flag.png
 Archive:  flag.png
 warning [flag.png]:  39739 extra bytes at beginning or within zipfile
