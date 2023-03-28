@@ -4,10 +4,7 @@
 What can you do with this file? I forgot the key to my safe but this [file](https://artifacts.picoctf.net/c/288/SafeOpener.class) is supposed to help me with retrieving the lost key. Can you help me unlock my safe?
 
 ## Solución
-Descargar el archivo y descompilarlo en una página especial. Examinarlo y extraer la bandera.
-
-picoCTF{SAf3_0p3n3rr_y0u_solv3d_it_5bfbd6f1}
-
+* Descargar el archivo y descompilarlo en una página especial. Examinarlo y extraer la bandera.
 ```bash
 import java.io.IOException;
 import java.util.Base64;
@@ -47,6 +44,9 @@ import java.io.InputStreamReader;
     }
 }
 ```
+
+## Bandera
+* picoCTF{SAf3_0p3n3rr_y0u_solv3d_it_5bfbd6f1}
 
 ## Notas Adicionales
 |comando|descripcion|
