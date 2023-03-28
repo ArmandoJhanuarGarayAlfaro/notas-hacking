@@ -7,7 +7,7 @@ Can you make a CoreWars warrior that always loses, no ties? Your opponent is the
 (None)
 ## Solucion 
 ```bash
- ┌──(alexia㉿alexHM)-[~/Downloads]
+ ┌──(kali㉿kali)-[~/Downloads]
 └─$ cat imp.red
 ;redcode
 ;name Imp Ex
@@ -17,7 +17,7 @@ mov 0,1
 end                                                                    ┌──(alexia㉿alexHM)-[~/Downloads]
 └─$ vim imp.red
 
-┌──(alexia㉿alexHM)-[~/Downloads]
+┌──(kali㉿kali)-[~/Downloads]
 └─$ cat imp.red
 ;redcode
 ;name Imp Ex
@@ -29,7 +29,7 @@ end
 
 
                                                                                                       
-┌──(alexia㉿alexHM)-[~/Downloads]
+┌──(kali㉿kali)-[~/Downloads]
 └─$ nc saturn.picoctf.net 54791 < imp.red
 ;redcode
 ;name Imp Ex
@@ -58,7 +58,7 @@ picoCTF{h3r0_t0_z3r0_4m1r1gh7_f1e207c4}
 
 ```
 ## Bandera
-picoCTF{h3r0_t0_z3r0_4m1r1gh7_f1e207c4}
+* picoCTF{h3r0_t0_z3r0_4m1r1gh7_f1e207c4}
 
 ## Notas Adicionales 
 
