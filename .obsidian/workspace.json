@@ -11,8 +11,12 @@
             "id": "d591194f7807883b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Forensic/10 - shark on wire 2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Forensic/10 - shark on wire 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Forensic/10 - shark on wire 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Forensic/10 - shark on wire 2.md"
+              }
             }
           },
           {
@@ -148,7 +156,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "9a0c607fd32324cd",
+  "active": "d591194f7807883b",
   "lastOpenFiles": [
     "Forensic/10 - shark on wire 2.md",
     "Forensic/img/Pasted image 20230328170658.png",
