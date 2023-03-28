@@ -25,7 +25,7 @@ capture.pcap  100% 109.69K   434KB/s    en 0.3s
 └─$ wireshark &
 [10] 93638
 ```
-![[Pasted image 20230328170658.png]]
+![imagen](https://user-images.githubusercontent.com/89482389/228388570-2ba4f957-b7a1-4a5d-a297-9445f2c8ead4.png)
 Ahora se tiene que obtener el valor en caracter de cada 5000 pero solo dejando sus ultimos 3 digitos y sin incluir el 5000 solo los que son mayores.
 ```bash
 ┌──(kali㉿kali)-[~/hacking/shark_on_wire2]
