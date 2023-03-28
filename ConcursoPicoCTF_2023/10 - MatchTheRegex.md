@@ -12,6 +12,6 @@ Access the webpage and try to match the regular expression associated with the t
 
 ```
 # Bandera
-picoCTF{succ3ssfully_matchtheregex_c64c9546}
+* picoCTF{succ3ssfully_matchtheregex_c64c9546}
 
 # Notas Adicionales

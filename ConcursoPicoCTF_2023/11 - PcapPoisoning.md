@@ -17,6 +17,9 @@ Descargar el archivo trace, abrir y analizar los paquetes, seleccionar el protoc
 
 ```
 
+## Bandera
+* picoCTF{P64P_4N4L7S1S_SU55355FUL_4624a8b6}
+
 ## Notas Adicionales
 |comando|descripcion|
 |---|---|
