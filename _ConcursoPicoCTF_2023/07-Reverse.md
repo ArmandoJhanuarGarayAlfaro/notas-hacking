@@ -8,7 +8,7 @@ Try reversing this file? Can ya? I forgot the password to this [file](https://ar
 
 ## Solucion 
 ```bash
-┌──(alexia㉿alexHM)-[~/Downloads]
+┌──(kali㉿kali)-[~/Downloads]
 └─$ tac ret           
 �
  �

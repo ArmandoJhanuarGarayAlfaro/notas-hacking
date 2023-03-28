@@ -62,7 +62,7 @@ Certificate Request:
 
 ```
 ## Bandera
-picoCTF{read_mycert_e675addc}
+* picoCTF{read_mycert_e675addc}
 
 ## Notas Adicionales 
 https://pleasantpasswords.com/info/pleasant-password-server/b-server-configuration/3-installing-a-3rd-party-certificate/openssl-commands
