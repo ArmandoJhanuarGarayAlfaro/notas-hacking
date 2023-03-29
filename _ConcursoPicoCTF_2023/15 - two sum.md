@@ -21,7 +21,7 @@ exit
 ```
 
 ## Bandera
-* picoCTF{Respuesta}
+* picoCTF{Tw0_Sum_Integer_Bu773R_0v3rfl0w_f6ed8057}
 
 ## Notas Adicionales 
 |comando|descripcion|
