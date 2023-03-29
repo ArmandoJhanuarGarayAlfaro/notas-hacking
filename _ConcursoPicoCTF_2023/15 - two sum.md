@@ -8,7 +8,8 @@ Can you solve this? What two positive numbers can make this possible: n1 > n1 + 
 
 ## Solucion 
 ```bash
-alberto@Nova:~$ nc saturn.picoctf.net 60817
+┌──(kali㉿kali)-[~/Downloads]
+└─$ nc saturn.picoctf.net 60817
 n1 > n1 + n2 OR n2 > n1 + n2 
 What two positive numbers can make this possible: 
 2147483647 1

@@ -8,7 +8,7 @@ Can you make a CoreWars warrior that always loses, no ties? Your opponent is the
 
 ## Solucion 
 ```bash
- ┌──(kali㉿kali)-[~/Downloads]
+┌──(kali㉿kali)-[~/Downloads]
 └─$ cat imp.red
 ;redcode
 ;name Imp Ex
