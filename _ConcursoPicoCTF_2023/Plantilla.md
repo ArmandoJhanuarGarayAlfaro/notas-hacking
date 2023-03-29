@@ -9,10 +9,10 @@
 ## Solucion 
 ```bash
 
-
 ```
-## Bandera
 
+## Bandera
+* picoCTF{Respuesta}
 
 ## Notas Adicionales 
 |comando|descripcion|
