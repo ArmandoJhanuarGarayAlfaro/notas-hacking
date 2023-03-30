@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "36a3c463ce63483b",
+            "id": "e287efbff501d1fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ConcursoPicoCTF_2023/01 - money-ware.md",
+                "file": "Forensic/15 - MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ConcursoPicoCTF_2023/01 - money-ware.md",
+                "file": "Forensic/15 - MacroHard WeakEdge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ConcursoPicoCTF_2023/01 - money-ware.md",
+                "file": "Forensic/15 - MacroHard WeakEdge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ConcursoPicoCTF_2023/01 - money-ware.md"
+                "file": "Forensic/15 - MacroHard WeakEdge.md"
               }
             }
           },
@@ -156,11 +156,29 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "36a3c463ce63483b",
+  "active": "e287efbff501d1fb",
   "lastOpenFiles": [
-    "_ConcursoPicoCTF_2023/02 - repetitions.md",
-    "_ConcursoPicoCTF_2023/03 - Rules 2023.md",
+    "Pasted image 20230329235105.png",
+    "Forensic/Plantilla.md",
+    "Forensic/15 - MacroHard WeakEdge.md",
+    "Forensic/14 - tunn3l v1s10n.md",
+    "Forensic/13 - Matryoshka doll.md",
+    "Pasted image 20230329234035.png",
+    "Pasted image 20230329234017.png",
+    "Pasted image 20230329233944.png",
+    "Pasted image 20230329233857.png",
+    "Pasted image 20230329233643.png",
+    "Pasted image 20230329233604.png",
+    "Pasted image 20230329233219.png",
+    "Forensic/img/Pasted image 20230329225611.png",
+    "Forensic/12 - WebNet1.md",
+    "Forensic/11 - WebNet0.md",
+    "Forensic/img/Pasted image 20230329230144.png",
+    "Forensic/img/Pasted image 20230329225839.png",
     "_ConcursoPicoCTF_2023/04 - hideme.md",
+    "_ConcursoPicoCTF_2023/03 - Rules 2023.md",
+    "_ConcursoPicoCTF_2023/02 - repetitions.md",
+    "_ConcursoPicoCTF_2023/01 - money-ware.md",
     "_ConcursoPicoCTF_2023/05 - rotation.md",
     "_ConcursoPicoCTF_2023/06 - ReadMyCert.md",
     "_ConcursoPicoCTF_2023/07 - Reverse.md",
@@ -174,28 +192,10 @@
     "_ConcursoPicoCTF_2023/09 - findme.md",
     "_ConcursoPicoCTF_2023/11 - PcapPoisoning.md",
     "_ConcursoPicoCTF_2023/12 - Safe Opener 2.md",
-    "_ConcursoPicoCTF_2023/01 - money-ware.md",
     "Forensic/09 - like1000.md",
     "Forensic/10 - shark on wire 2.md",
-    "Forensic/img/Pasted image 20230328170658.png",
-    "Forensic/img/Pasted image 20230328170213.png",
-    "Forensic/Plantilla.md",
-    "Forensic/img/Pasted image 20230328165348.png",
-    "Forensic/08 - c0rrupt.md",
-    "Forensic/img/Pasted image 20230328163025.png",
     "mystery 1",
     "mystery",
-    "Forensic/04 - extensions.md",
-    "Forensic/07 - WhitePages.md",
-    "Forensic/06 - m00nwalk.md",
-    "Forensic/img/Pasted image 20230328113938.png",
-    "Forensic/img/Pasted image 20230328113759.png",
-    "Forensic/img/Pasted image 20230328113744.png",
-    "Forensic/img/Pasted image 20230328111921.png",
-    "Forensic/img/Pasted image 20230328111816.png",
-    "Forensic/02 - So Meta.md",
-    "Forensic/03 - shark on wire 1.md",
-    "Forensic/img/Pasted image 20230323124143.png",
     "Forensic/img",
     "Untitled",
     "Forensic",
