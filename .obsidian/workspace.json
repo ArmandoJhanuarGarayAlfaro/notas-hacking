@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "68e4bbf2c0e0199b",
+        "id": "ede2067d2ad6e165",
         "type": "tabs",
         "children": [
           {
-            "id": "e287efbff501d1fb",
+            "id": "092e203aba6a6e38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensic/15 - MacroHard WeakEdge.md",
+                "file": "SegundoParcial/Web 2022/10 -  SQLLite.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forensic/15 - MacroHard WeakEdge.md",
+                "file": "SegundoParcial/Web 2022/10 -  SQLLite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forensic/15 - MacroHard WeakEdge.md",
+                "file": "SegundoParcial/Web 2022/10 -  SQLLite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forensic/15 - MacroHard WeakEdge.md"
+                "file": "SegundoParcial/Web 2022/10 -  SQLLite.md"
               }
             }
           },
@@ -156,53 +156,52 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "9a0c607fd32324cd",
+  "active": "092e203aba6a6e38",
   "lastOpenFiles": [
-    "Forensic/img/Pasted image 20230329235105.png",
-    "Forensic/Plantilla.md",
+    "SegundoParcial/Web 2022/09 - SQL Direct.md",
+    "SegundoParcial/Web 2022/10 -  SQLLite.md",
+    "SegundoParcial/Web 2022/08 -  Secrets.md",
+    "SegundoParcial/Web 2022/img/Pasted image 20230416180924.png",
+    "SegundoParcial/Web 2022/img/Pasted image 20230416180907.png",
+    "SegundoParcial/Web 2022/img/Pasted image 20230416180807.png",
+    "SegundoParcial/Web 2022/img/Pasted image 20230416180718.png",
+    "SegundoParcial/Web 2022/img/Pasted image 20230416180637.png",
+    "SegundoParcial/Web 2022/img/Pasted image 20230416180603.png",
+    "SegundoParcial/Web 2022/img/Pasted image 20230416180326.png",
+    "Web-Exploitation/09 - JaWT Scratchpad.md",
+    "Web-Exploitation/07 - Irish-Name-Repo 1.md",
+    "Web-Exploitation/05 - picobrowser.md",
+    "Web-Exploitation/04 - dont-use-client-side.md",
+    "SegundoParcial/Web 2022/03 - Local Authority.md",
+    "Web-Exploitation/06 - Client-side-again.md",
+    "SegundoParcial/Web 2022/img",
+    "SegundoParcial/Web 2022/img/Pasted image 20230416174032.png",
+    "SegundoParcial/Web 2022/07 - Roboto Sans.md",
+    "SegundoParcial/Web 2022/img/Pasted image 20230416173206.png",
+    "SegundoParcial/Web 2022/img/Pasted image 20230416173123.png",
+    "SegundoParcial/Web 2022/06 - Power Cookie.md",
+    "SegundoParcial/Web 2022/05 - Forbidden Paths.md",
+    "SegundoParcial/Web 2022/04 - Search Source.md",
+    "SegundoParcial/Web 2022/02 - Inspect HTML.md",
+    "SegundoParcial/Web 2022/01 -  Includes.md",
+    "SegundoParcial/Plantilla.md",
     "Forensic/15 - MacroHard WeakEdge.md",
+    "SegundoParcial/Forensic 2021",
+    "SegundoParcial/Web 2022",
+    "SegundoParcial",
+    "Forensic/Plantilla.md",
     "Forensic/14 - tunn3l v1s10n.md",
     "Forensic/13 - Matryoshka doll.md",
-    "Forensic/img/Pasted image 20230329234035.png",
-    "Forensic/img/Pasted image 20230329234017.png",
-    "Forensic/img/Pasted image 20230329233944.png",
-    "Forensic/img/Pasted image 20230329233857.png",
-    "Forensic/img/Pasted image 20230329233643.png",
-    "Forensic/img/Pasted image 20230329233604.png",
-    "Forensic/img/Pasted image 20230329233219.png",
-    "Forensic/img/Pasted image 20230329225611.png",
     "Forensic/12 - WebNet1.md",
     "Forensic/11 - WebNet0.md",
-    "Forensic/img/Pasted image 20230329230144.png",
-    "Forensic/img/Pasted image 20230329225839.png",
     "_ConcursoPicoCTF_2023/04 - hideme.md",
     "_ConcursoPicoCTF_2023/03 - Rules 2023.md",
     "_ConcursoPicoCTF_2023/02 - repetitions.md",
-    "_ConcursoPicoCTF_2023/01 - money-ware.md",
-    "_ConcursoPicoCTF_2023/05 - rotation.md",
-    "_ConcursoPicoCTF_2023/06 - ReadMyCert.md",
-    "_ConcursoPicoCTF_2023/07 - Reverse.md",
-    "_ConcursoPicoCTF_2023/08 - Ready Gladiator 0.md",
-    "_ConcursoPicoCTF_2023/15 - two sum.md",
-    "_ConcursoPicoCTF_2023/14 - chrono.md",
-    "_ConcursoPicoCTF_2023/Plantilla.md",
-    "_ConcursoPicoCTF_2023/13 - Permissions.md",
-    "PrimerParcial/Plantilla.md",
-    "_ConcursoPicoCTF_2023/10 - MatchTheRegex.md",
-    "_ConcursoPicoCTF_2023/09 - findme.md",
-    "_ConcursoPicoCTF_2023/11 - PcapPoisoning.md",
-    "_ConcursoPicoCTF_2023/12 - Safe Opener 2.md",
-    "Forensic/09 - like1000.md",
-    "Forensic/10 - shark on wire 2.md",
     "mystery 1",
     "mystery",
     "Forensic/img",
-    "Untitled",
     "Forensic",
     "Web-Exploitation/img",
-    "Web-Exploitation",
-    "PrimerParcial/2022",
-    "PrimerParcial/2021",
-    "PrimerParcial/2019"
+    "Web-Exploitation"
   ]
 }
