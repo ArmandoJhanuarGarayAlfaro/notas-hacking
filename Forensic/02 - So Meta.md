@@ -70,9 +70,6 @@ Artist                          : picoCTF{s0_m3ta_fec06741}
 └─$ strings pico_img.png | grep pico 
 picoCTF{s0_m3ta_fec06741}
                                              
-┌──(kali㉿kali)-[~/hacking/forensic/so_meta]
-└─$ 
-
 ```
 
 ## Bandera

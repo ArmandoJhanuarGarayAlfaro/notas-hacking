@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ede2067d2ad6e165",
+        "id": "1230a6a9cb4951e8",
         "type": "tabs",
         "children": [
           {
-            "id": "092e203aba6a6e38",
+            "id": "e172e7439405b0b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SegundoParcial/Web 2022/10 -  SQLLite.md",
+                "file": "Crypto/07 - waves over lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SegundoParcial/Web 2022/10 -  SQLLite.md",
+                "file": "Crypto/07 - waves over lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SegundoParcial/Web 2022/10 -  SQLLite.md",
+                "file": "Crypto/07 - waves over lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SegundoParcial/Web 2022/10 -  SQLLite.md"
+                "file": "Crypto/07 - waves over lambda.md"
               }
             }
           },
@@ -156,52 +156,52 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "092e203aba6a6e38",
+  "active": "e172e7439405b0b9",
   "lastOpenFiles": [
-    "SegundoParcial/Web 2022/09 - SQL Direct.md",
-    "SegundoParcial/Web 2022/10 -  SQLLite.md",
-    "SegundoParcial/Web 2022/08 -  Secrets.md",
-    "SegundoParcial/Web 2022/img/Pasted image 20230416180924.png",
-    "SegundoParcial/Web 2022/img/Pasted image 20230416180907.png",
-    "SegundoParcial/Web 2022/img/Pasted image 20230416180807.png",
-    "SegundoParcial/Web 2022/img/Pasted image 20230416180718.png",
-    "SegundoParcial/Web 2022/img/Pasted image 20230416180637.png",
-    "SegundoParcial/Web 2022/img/Pasted image 20230416180603.png",
-    "SegundoParcial/Web 2022/img/Pasted image 20230416180326.png",
-    "Web-Exploitation/09 - JaWT Scratchpad.md",
-    "Web-Exploitation/07 - Irish-Name-Repo 1.md",
-    "Web-Exploitation/05 - picobrowser.md",
-    "Web-Exploitation/04 - dont-use-client-side.md",
-    "SegundoParcial/Web 2022/03 - Local Authority.md",
-    "Web-Exploitation/06 - Client-side-again.md",
-    "SegundoParcial/Web 2022/img",
-    "SegundoParcial/Web 2022/img/Pasted image 20230416174032.png",
-    "SegundoParcial/Web 2022/07 - Roboto Sans.md",
-    "SegundoParcial/Web 2022/img/Pasted image 20230416173206.png",
-    "SegundoParcial/Web 2022/img/Pasted image 20230416173123.png",
-    "SegundoParcial/Web 2022/06 - Power Cookie.md",
-    "SegundoParcial/Web 2022/05 - Forbidden Paths.md",
-    "SegundoParcial/Web 2022/04 - Search Source.md",
-    "SegundoParcial/Web 2022/02 - Inspect HTML.md",
-    "SegundoParcial/Web 2022/01 -  Includes.md",
-    "SegundoParcial/Plantilla.md",
+    "Crypto/07 - waves over lambda.md",
+    "Crypto/img/Pasted image 20230420210140.png",
+    "Crypto/img/Pasted image 20230420210123.png",
+    "Crypto/06 - Tapping.md",
+    "Crypto/img/Pasted image 20230420203648.png",
+    "Crypto/05 - la cifra de.md",
+    "Crypto/img/Pasted image 20230420191151.png",
+    "Crypto/img/Pasted image 20230420191111.png",
+    "Crypto/Plantilla.md",
+    "Crypto/04 - caesar.md",
+    "Crypto/img",
+    "Crypto/03 - 13.md",
+    "Crypto/02 - Easy1.md",
+    "Crypto/img/Pasted image 20230420183509.png",
+    "Crypto/img/Pasted image 20230420182956.png",
+    "Crypto/01 - The Numbers.md",
+    "Crypto/img/Pasted image 20230420133417.png",
+    "Crypto/img/Pasted image 20230420132523.png",
+    "Crypto/img/Pasted image 20230420131851.png",
+    "SegundoParcial/Forensic 2021/01 - information.md",
+    "Crypto",
+    "SegundoParcial/Forensic 2022/01 - Enhance!.md",
+    "SegundoParcial/Forensic 2022/05 - St3g0.md",
+    "Forensic/05 - What Lies Within.md",
+    "Forensic/06 - m00nwalk.md",
+    "Forensic/04 - extensions.md",
+    "Forensic/03 - shark on wire 1.md",
+    "Forensic/02 - So Meta.md",
     "Forensic/15 - MacroHard WeakEdge.md",
-    "SegundoParcial/Forensic 2021",
-    "SegundoParcial/Web 2022",
-    "SegundoParcial",
-    "Forensic/Plantilla.md",
     "Forensic/14 - tunn3l v1s10n.md",
     "Forensic/13 - Matryoshka doll.md",
     "Forensic/12 - WebNet1.md",
     "Forensic/11 - WebNet0.md",
-    "_ConcursoPicoCTF_2023/04 - hideme.md",
-    "_ConcursoPicoCTF_2023/03 - Rules 2023.md",
-    "_ConcursoPicoCTF_2023/02 - repetitions.md",
+    "Forensic/10 - shark on wire 2.md",
+    "Forensic/09 - like1000.md",
+    "Forensic/08 - c0rrupt.md",
+    "SegundoParcial/Forensic 2022/04 - Redaction gone wrong.md",
+    "SegundoParcial/Forensic 2022",
+    "SegundoParcial/img",
+    "SegundoParcial/Forensic 2021",
+    "SegundoParcial/Web 2022",
+    "SegundoParcial",
     "mystery 1",
     "mystery",
-    "Forensic/img",
-    "Forensic",
-    "Web-Exploitation/img",
-    "Web-Exploitation"
+    "Forensic/img"
   ]
 }

@@ -37,7 +37,7 @@ b1,rgb,lsb,xy       .. text: "picoCTF{h1d1ng_1n_th3_b1t5}"
 ## Notas adicionales
 | Comando | Descripcion |
 |---------|-------------|
-| zsteg -a | Busca informacion en imagenes para decodificarla u obtenr información por todas las tecnicas posibles. |
+| zsteg -a | Busca informacion en imagenes para decodificarla u obtener información por todas las tecnicas posibles. |
 
 ## Referencias
 - [Decodifica una imagen obtener informacion oculta](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwin_4aW2_L9AhXGLUQIHWqZBzIQFnoECBIQAQ&url=https%3A%2F%2Fstylesuxx.github.io%2Fsteganography%2F&usg=AOvVaw3BoM9agDA-VTpFMEwSX5LG)
