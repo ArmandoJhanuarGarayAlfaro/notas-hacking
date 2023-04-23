@@ -51,6 +51,8 @@ WARNING: Running pip as the 'root' user can result in broken permissions and con
 
 ┌──(kali㉿kali)-[~/hacking/miniRSA]
 └─$ python3
+```
+```python
 Python 3.11.2 (main, Mar 13 2023, 12:18:29) [GCC 12.2.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
 >>> from Crypto.Util.number import long_to_bytes
@@ -71,10 +73,6 @@ mpz(1301638252944910606589447937402760475040695369909036538820370802867002959614
 >>> print( long_to_bytes(root) )
 b'picoCTF{n33d_a_lArg3r_e_ccaa7776}'
 >>> 
-
-```
-```python
-
 ```
 
 ## Bandera
