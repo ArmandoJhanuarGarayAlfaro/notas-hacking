@@ -16,8 +16,8 @@ e: 13238273144362313932695278355194258528767922679413019562801591334348049400697
 
 ┌──(kali㉿kali)-[~/hacking/b00tl3gRSA2]
 └─$ python3    
-```python3
 ```
+```python
 Python 3.11.2 (main, Mar 13 2023, 12:18:29) [GCC 12.2.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
 >>> 
@@ -41,8 +41,6 @@ b"\x93\x99\x9b\x87\x17\xd4\xce\x015EX\x90\xb2\x8cA\xb4~\xe7:\xc2\xeeO\xc5\xeba\x
 >>> long_to_bytes(m)
 b'picoCTF{bad_1d3a5_2438125}'
 >>> 
-
-
 ```
 
 ## Bandera

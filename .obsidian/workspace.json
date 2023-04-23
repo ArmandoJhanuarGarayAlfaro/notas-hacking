@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto/10 - b00tl3gRSA2.md",
+                "file": "Crypto/08 - rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crypto/10 - b00tl3gRSA2.md",
+                "file": "Crypto/08 - rsa-pop-quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crypto/10 - b00tl3gRSA2.md",
+                "file": "Crypto/08 - rsa-pop-quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crypto/10 - b00tl3gRSA2.md"
+                "file": "Crypto/08 - rsa-pop-quiz.md"
               }
             }
           },
@@ -158,12 +158,12 @@
   },
   "active": "edcba35d8b7c4b55",
   "lastOpenFiles": [
+    "Crypto/10 - b00tl3gRSA2.md",
     "Crypto/09 - miniRSA.md",
     "Crypto/08 - rsa-pop-quiz.md",
     "Crypto/07 - waves over lambda.md",
     "Crypto/06 - Tapping.md",
     "Crypto/05 - la cifra de.md",
-    "Crypto/10 - b00tl3gRSA2.md",
     "Crypto/_RSA.md",
     "Crypto/img/Pasted image 20230420210140.png",
     "Crypto/img/Pasted image 20230420210123.png",
