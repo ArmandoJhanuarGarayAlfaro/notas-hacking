@@ -1,7 +1,7 @@
 # SQLLite
 
 ## Descripcion Reto
-
+![[Pasted image 20230425185546.png]]
 
 ## Pistas
 1. 
