@@ -99,7 +99,7 @@ Certificate Request:
         27:91:de:f9:c7:f7:67:0a:0b:53:af:17:17:50:b8:b3:87:f0:
         63:2f:97:b5
 ```
-![]([../img/Pasted image 20230427194546.png])
+![](../img/Pasted image 20230427194546.png)
 
 ## Bandera
 * picoCTF{read_mycert_5aeb0d4f}
