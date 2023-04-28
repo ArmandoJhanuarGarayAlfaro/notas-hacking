@@ -1,4 +1,6 @@
 {
   "readableLineLength": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
 }
