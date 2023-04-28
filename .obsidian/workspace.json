@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "READNAME.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "READNAME.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "READNAME.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "READNAME.md"
+                "file": "README.md"
               }
             }
           },
@@ -175,7 +175,7 @@
     "Crypto/_RSA.md",
     "Crypto/10 - b00tl3gRSA2.md",
     "Crypto/img/Pasted image 20230426214855.png",
-    "READNAME.md",
+    "README.md",
     "Crypto/08 - rsa-pop-quiz.md",
     "Crypto/07 - waves over lambda.md",
     "Crypto/06 - Tapping.md",
