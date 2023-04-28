@@ -13,7 +13,8 @@ Theres tapping coming in from the wires. What's it saying `nc jupiter.challenges
 └─$ nc jupiter.challenges.picoctf.org 21610.
 .--. .. -.-. --- -.-. - ..-. { -- ----- .-. ... ...-- -.-. ----- -.. ...-- .---- ... ..-. ..- -. ...-- ----. ----- ..--- ----- .---- ----. ..... .---- ----. } 
 ```
-![[Pasted image 20230420203648.png]]
+
+![Pasted image 20230420203648.png](https://github.com/ArmandoJhanuarGarayAlfaro/notas-hacking/blob/main/Crypto/img/Pasted%20image%2020230420203648.png)
 
 ## Bandera
 * PICOCTF{M0RS3C0D31SFUN3902019519}

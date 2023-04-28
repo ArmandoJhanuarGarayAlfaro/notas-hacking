@@ -28,8 +28,8 @@ the_numbers.png
 ┌──(kali㉿kali)-[~/hacking/numbers]
 └─$ open the_numbers.png 
 ```
-![[Pasted image 20230420131851.png]]
-![[Pasted image 20230420132523.png]]
+![Pasted image 20230420131851.png](https://github.com/ArmandoJhanuarGarayAlfaro/notas-hacking/blob/main/Crypto/img/Pasted%20image%2020230420131851.png?raw=true)
+![Pasted image 20230420132523.png](https://github.com/ArmandoJhanuarGarayAlfaro/notas-hacking/blob/main/Crypto/img/Pasted%20image%2020230420132523.png?raw=true)
 
 ## Bandera
 * picoCTF{Thenumbersmason}

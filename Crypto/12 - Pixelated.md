@@ -44,7 +44,8 @@ scrambled1.png  scrambled2.png
 ┌──(kali㉿kali)-[~/hacking/pixelated]
 └─$ nano exp.py 
 ```
-![[Pasted image 20230427191618.png]]
+![Pasted image 20230427191618.png](https://github.com/ArmandoJhanuarGarayAlfaro/notas-hacking/blob/main/Crypto/img/Pasted%20image%2020230427191618.png)
+
 ```python
 from PIL import Image
 import numpy as np
@@ -70,7 +71,8 @@ exp.py  nueva.png  scrambled1.png  scrambled2.png
 ┌──(kali㉿kali)-[~/hacking/pixelated]
 └─$ open nueva.png
 ```
-![[Pasted image 20230427191536.png]]
+![Pasted image 20230427191536.png](https://github.com/ArmandoJhanuarGarayAlfaro/notas-hacking/blob/main/Crypto/img/Pasted%20image%2020230427191536.png)
+
 ## Bandera
 * picoCTF{0542dc1d}
 

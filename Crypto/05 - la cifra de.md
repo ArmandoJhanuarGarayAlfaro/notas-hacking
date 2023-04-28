@@ -29,10 +29,12 @@ Tn 1508, Ptsatsps Zwttnjxiax tnbjytki ehk xz-cgqwej ylbaql rkhea (g rltxni ol xs
 Gplrfdo’y xpcuso butvlky lpvjlrki tn 1555 gx l cuseitzltoty ol yse lncsz. Yse rthex mllbjd ol yse gqahggpty fce tth snnqtki cemzwaxqj, bay ehk fwpnfmezx lnj yse osoed qptzjcs gwp mocpd hd xegsd ol f xnkrznoh vee usrgxp, wnnnh ify bk itfljcety hizm paim noxwpsvtydkse.
 ```
 Usando una herramienta para forzar la llave usando Vigenere y obtener la llave se obtiene una aproximacion en la [pagina](https://www.boxentriq.com/code-breaking/vigenere-cipher)
-![[Pasted image 20230420191151.png]].
+
+![Pasted image 20230420191151.png](https://github.com/ArmandoJhanuarGarayAlfaro/notas-hacking/blob/main/Crypto/img/Pasted%20image%2020230420191151.png)
 
 Despues se usa la aproximación para poder resolver la decodificacion con la llave en cyberchef
-![[Pasted image 20230420191111.png]]
+
+![Pasted image 20230420191111.png](https://github.com/ArmandoJhanuarGarayAlfaro/notas-hacking/blob/main/Crypto/img/Pasted%20image%2020230420191111.png)
 
 ## Bandera
 * picoCTF{b311a50_0r_v1gn3r3_c1ph3r7b996649}

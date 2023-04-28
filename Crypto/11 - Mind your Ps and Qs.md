@@ -34,7 +34,9 @@ e: 65537
 ```
 
 Se obtiene **p** y **q** en la página [factordb](http://factordb.com/index.php?query=831416828080417866340504968188990032810316193533653516022175784399720141076262857) donde se uso **n** para obtener los valores
-![[Pasted image 20230426214855.png]]
+
+![Pasted image 20230426214855.png](https://github.com/ArmandoJhanuarGarayAlfaro/notas-hacking/blob/main/Crypto/img/Pasted%20image%2020230426214855.png)
+
 ```bash
 ┌──(kali㉿kali)-[~/hacking/Mind]
 └─$ python3 
