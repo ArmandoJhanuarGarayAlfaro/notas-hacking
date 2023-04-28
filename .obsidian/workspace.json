@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto/01 - The Numbers.md",
+                "file": "READNAME.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crypto/01 - The Numbers.md",
+                "file": "READNAME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crypto/01 - The Numbers.md",
+                "file": "READNAME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crypto/01 - The Numbers.md"
+                "file": "READNAME.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "d5bfd1b0d3eba411",
   "lastOpenFiles": [
+    "Crypto/01 - The Numbers.md",
     "Crypto/15 - ReadMyCert.md",
     "Pasted image 20230427201016.png",
     "Crypto/img/Pasted image 20230427194546.png",
@@ -188,7 +189,6 @@
     "Crypto/img",
     "Crypto/03 - 13.md",
     "Crypto/02 - Easy1.md",
-    "Crypto/01 - The Numbers.md",
     "SegundoParcial/Forensic 2021/01 - information.md",
     "Crypto",
     "SegundoParcial/Forensic 2022/01 - Enhance!.md",
