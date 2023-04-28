@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web-Exploitation/09 - JaWT Scratchpad.md",
+                "file": "Crypto/01 - The Numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/09 - JaWT Scratchpad.md",
+                "file": "Crypto/01 - The Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web-Exploitation/09 - JaWT Scratchpad.md",
+                "file": "Crypto/01 - The Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web-Exploitation/09 - JaWT Scratchpad.md"
+                "file": "Crypto/01 - The Numbers.md"
               }
             }
           },
@@ -158,17 +158,8 @@
   },
   "active": "d5bfd1b0d3eba411",
   "lastOpenFiles": [
-    "Web-Exploitation/08 - Irish-Name-Repo 2.md",
-    "Web-Exploitation/06 - Client-side-again.md",
-    "Web-Exploitation/07 - Irish-Name-Repo 1.md",
-    "Web-Exploitation/05 - picobrowser.md",
-    "Web-Exploitation/04 - dont-use-client-side.md",
-    "Web-Exploitation/03 - logon.md",
-    "Web-Exploitation/02 - where are the robots.md",
-    "Web-Exploitation/01 - Insp3ct0r.md",
-    "Crypto/img/Pasted image 20230427201016.png",
-    "Crypto/img/img.png",
     "Crypto/15 - ReadMyCert.md",
+    "Pasted image 20230427201016.png",
     "Crypto/img/Pasted image 20230427194546.png",
     "_ConcursoPicoCTF_2023/09 - findme.md",
     "Crypto/14 - HideToSee.md",
@@ -190,12 +181,20 @@
     "SegundoParcial/Web 2022/10 -  SQLLite.md",
     "SegundoParcial/img/Pasted image 20230425185546.png",
     "Crypto/09 - miniRSA.md",
+    "Crypto/img/Pasted image 20230420210140.png",
     "Crypto/05 - la cifra de.md",
     "Crypto/Plantilla.md",
     "Crypto/04 - caesar.md",
     "Crypto/img",
     "Crypto/03 - 13.md",
+    "Crypto/02 - Easy1.md",
+    "Crypto/01 - The Numbers.md",
+    "SegundoParcial/Forensic 2021/01 - information.md",
     "Crypto",
+    "SegundoParcial/Forensic 2022/01 - Enhance!.md",
+    "SegundoParcial/Forensic 2022/05 - St3g0.md",
+    "Forensic/05 - What Lies Within.md",
+    "Forensic/06 - m00nwalk.md",
     "SegundoParcial/Forensic 2022",
     "SegundoParcial/img",
     "SegundoParcial/Forensic 2021",
