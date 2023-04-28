@@ -19,10 +19,11 @@
 | Encriptar | c = m^e mod n   |   pow(m,e,n) |
 | Desencriptar | m = c^d mod n   |   pow(c,d,n) |
 
-Despejar encriptado (c = m^e mod n) cuando:
+Despejar encriptado `(c = m^e mod n)` cuando:
 * e demasiado pequeña
 * n demasiado grande
 * m demasiado corto
+
 c = m^e mod n
 c = m^e
 m = e raiz c
