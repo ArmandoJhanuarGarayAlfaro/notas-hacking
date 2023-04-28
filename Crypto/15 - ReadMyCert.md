@@ -100,6 +100,7 @@ Certificate Request:
         63:2f:97:b5
 ```
 ![[Pasted image 20230427194546.png]]
+https://github.com/ArmandoJhanuarGarayAlfaro/notas-hacking/blob/main/Crypto/img/Pasted%20image%2020230427193811.png
 
 ## Bandera
 * picoCTF{read_mycert_5aeb0d4f}
