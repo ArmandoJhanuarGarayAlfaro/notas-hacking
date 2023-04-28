@@ -58,7 +58,7 @@ X | X Y Z A B C D E F G H I J K L M N O P Q R S T U V W
 Y | Y Z A B C D E F G H I J K L M N O P Q R S T U V W X
 Z | Z A B C D E F G H I J K L M N O P Q R S T U V W X Y
 ```
-![[Pasted image 20230420133417.png]]
+![Pasted image 20230420133417.png](https://github.com/ArmandoJhanuarGarayAlfaro/notas-hacking/blob/main/Crypto/img/Pasted%20image%2020230420133417.png)
 
 ## Bandera
 * picoCTF{CRYPTOISFUN}
