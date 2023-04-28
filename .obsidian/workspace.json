@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto/15 - ReadMyCert.md",
+                "file": "_ConcursoPicoCTF_2023/09 - findme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crypto/15 - ReadMyCert.md",
+                "file": "_ConcursoPicoCTF_2023/09 - findme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crypto/15 - ReadMyCert.md",
+                "file": "_ConcursoPicoCTF_2023/09 - findme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crypto/15 - ReadMyCert.md"
+                "file": "_ConcursoPicoCTF_2023/09 - findme.md"
               }
             }
           },
@@ -156,13 +156,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "9a0c607fd32324cd",
+  "active": "f698d2a0c7d77c7d",
   "lastOpenFiles": [
+    "Crypto/15 - ReadMyCert.md",
     "Crypto/img/Pasted image 20230427194546.png",
     "Crypto/14 - HideToSee.md",
     "Crypto/img/Pasted image 20230427193811.png",
     "Crypto/img/Pasted image 20230427192512.png",
-    "Crypto/15 - ReadMyCert.md",
     "Crypto/13 - basic-mod1.md",
     "Crypto/12 - Pixelated.md",
     "Crypto/img/Pasted image 20230427191618.png",
@@ -181,7 +181,6 @@
     "Crypto/09 - miniRSA.md",
     "Crypto/img/Pasted image 20230420210140.png",
     "Crypto/img/Pasted image 20230420210123.png",
-    "Crypto/img/Pasted image 20230420203648.png",
     "Crypto/05 - la cifra de.md",
     "Crypto/Plantilla.md",
     "Crypto/04 - caesar.md",
