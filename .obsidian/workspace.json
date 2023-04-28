@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5f4733542b2f88fd",
+        "id": "bc2b5a8613f0a57a",
         "type": "tabs",
         "children": [
           {
-            "id": "edcba35d8b7c4b55",
+            "id": "f698d2a0c7d77c7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SegundoParcial/Web 2022/10 -  SQLLite.md",
+                "file": "Crypto/15 - ReadMyCert.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SegundoParcial/Web 2022/10 -  SQLLite.md",
+                "file": "Crypto/15 - ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SegundoParcial/Web 2022/10 -  SQLLite.md",
+                "file": "Crypto/15 - ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SegundoParcial/Web 2022/10 -  SQLLite.md"
+                "file": "Crypto/15 - ReadMyCert.md"
               }
             }
           },
@@ -156,32 +156,39 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "9a0c607fd32324cd",
+  "active": "f698d2a0c7d77c7d",
   "lastOpenFiles": [
-    "SegundoParcial/img/Pasted image 20230425185546.png",
-    "Crypto/08 - rsa-pop-quiz.md",
-    "Crypto/10 - b00tl3gRSA2.md",
-    "Crypto/09 - miniRSA.md",
+    "Pasted image 20230427194546.png",
+    "Crypto/14 - HideToSee.md",
+    "Crypto/img/Pasted image 20230427193811.png",
+    "Crypto/img/Pasted image 20230427192512.png",
+    "Crypto/15 - ReadMyCert.md",
+    "Crypto/13 - basic-mod1.md",
+    "Crypto/12 - Pixelated.md",
+    "Crypto/img/Pasted image 20230427191618.png",
+    "Crypto/img/Pasted image 20230427191609.png",
+    "Crypto/img/Pasted image 20230427191536.png",
+    "Crypto/11 - Mind your Ps and Qs.md",
     "Crypto/_RSA.md",
-    "Crypto/06 - Tapping.md",
+    "Crypto/10 - b00tl3gRSA2.md",
+    "Crypto/img/Pasted image 20230426214855.png",
+    "READNAME.md",
+    "Crypto/08 - rsa-pop-quiz.md",
     "Crypto/07 - waves over lambda.md",
+    "Crypto/06 - Tapping.md",
+    "SegundoParcial/Web 2022/10 -  SQLLite.md",
+    "SegundoParcial/img/Pasted image 20230425185546.png",
+    "Crypto/09 - miniRSA.md",
     "Crypto/img/Pasted image 20230420210140.png",
     "Crypto/img/Pasted image 20230420210123.png",
     "Crypto/img/Pasted image 20230420203648.png",
     "Crypto/05 - la cifra de.md",
-    "Crypto/img/Pasted image 20230420191151.png",
-    "Crypto/img/Pasted image 20230420191111.png",
     "Crypto/Plantilla.md",
     "Crypto/04 - caesar.md",
     "Crypto/img",
     "Crypto/03 - 13.md",
     "Crypto/02 - Easy1.md",
-    "Crypto/img/Pasted image 20230420183509.png",
-    "Crypto/img/Pasted image 20230420182956.png",
     "Crypto/01 - The Numbers.md",
-    "Crypto/img/Pasted image 20230420133417.png",
-    "Crypto/img/Pasted image 20230420132523.png",
-    "Crypto/img/Pasted image 20230420131851.png",
     "SegundoParcial/Forensic 2021/01 - information.md",
     "Crypto",
     "SegundoParcial/Forensic 2022/01 - Enhance!.md",
@@ -189,13 +196,6 @@
     "Forensic/05 - What Lies Within.md",
     "Forensic/06 - m00nwalk.md",
     "Forensic/04 - extensions.md",
-    "Forensic/03 - shark on wire 1.md",
-    "Forensic/02 - So Meta.md",
-    "Forensic/15 - MacroHard WeakEdge.md",
-    "Forensic/14 - tunn3l v1s10n.md",
-    "Forensic/13 - Matryoshka doll.md",
-    "Forensic/12 - WebNet1.md",
-    "Forensic/11 - WebNet0.md",
     "SegundoParcial/Forensic 2022",
     "SegundoParcial/img",
     "SegundoParcial/Forensic 2021",

@@ -215,6 +215,5 @@ d = e mod   inv   tn   /   inverse(e,tn)
 | Desencriptar | m = c^d mod n   \|   pow(c,d,n) |
 
 
-
 ## Referencias
 - []()
