@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto/15 - ReadMyCert.md",
+                "file": "Web-Exploitation/02 - where are the robots.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crypto/15 - ReadMyCert.md",
+                "file": "Web-Exploitation/02 - where are the robots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crypto/15 - ReadMyCert.md",
+                "file": "Web-Exploitation/02 - where are the robots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crypto/15 - ReadMyCert.md"
+                "file": "Web-Exploitation/02 - where are the robots.md"
               }
             }
           },
@@ -158,10 +158,12 @@
   },
   "active": "d5bfd1b0d3eba411",
   "lastOpenFiles": [
-    "Pasted image 20230427201016.png",
+    "Web-Exploitation/01 - Insp3ct0r.md",
+    "Crypto/img/Pasted image 20230427201016.png",
+    "Crypto/img/img.png",
+    "Crypto/15 - ReadMyCert.md",
     "Crypto/img/Pasted image 20230427194546.png",
     "_ConcursoPicoCTF_2023/09 - findme.md",
-    "Crypto/15 - ReadMyCert.md",
     "Crypto/14 - HideToSee.md",
     "Crypto/img/Pasted image 20230427193811.png",
     "Crypto/img/Pasted image 20230427192512.png",
@@ -181,8 +183,6 @@
     "SegundoParcial/Web 2022/10 -  SQLLite.md",
     "SegundoParcial/img/Pasted image 20230425185546.png",
     "Crypto/09 - miniRSA.md",
-    "Crypto/img/Pasted image 20230420210140.png",
-    "Crypto/img/Pasted image 20230420210123.png",
     "Crypto/05 - la cifra de.md",
     "Crypto/Plantilla.md",
     "Crypto/04 - caesar.md",
