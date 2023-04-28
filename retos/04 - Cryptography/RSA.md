@@ -10,8 +10,9 @@
 | tn | totient n (euler) |
 | e | exponente (llave publica) 2^16+1 = 65537 |
 
-n = p \* q
-tn = (p-1) \* (q-1)
+
+`n = p * q`
+tn = (p-1) * (q-1)
 d = e mod   inv   tn   /   inverse(e,tn)
 
 |  |  |

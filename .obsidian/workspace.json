@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos/04 - Cryptography/RSA.md",
+                "file": "retos/04 - Cryptography/12 - Pixelated.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos/04 - Cryptography/RSA.md",
+                "file": "retos/04 - Cryptography/12 - Pixelated.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos/04 - Cryptography/RSA.md",
+                "file": "retos/04 - Cryptography/12 - Pixelated.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos/04 - Cryptography/RSA.md"
+                "file": "retos/04 - Cryptography/12 - Pixelated.md"
               }
             }
           },
@@ -158,6 +158,10 @@
   },
   "active": "d5bfd1b0d3eba411",
   "lastOpenFiles": [
+    "retos/04 - Cryptography/13 - basic-mod1.md",
+    "retos/04 - Cryptography/14 - HideToSee.md",
+    "retos/04 - Cryptography/RSA.md",
+    "retos/04 - Cryptography/15 - ReadMyCert.md",
     "README.md",
     "Crypto/01 - The Numbers.md",
     "Crypto/15 - ReadMyCert.md",
@@ -192,9 +196,6 @@
     "SegundoParcial/Forensic 2021/01 - information.md",
     "Crypto",
     "SegundoParcial/Forensic 2022/01 - Enhance!.md",
-    "SegundoParcial/Forensic 2022/05 - St3g0.md",
-    "Forensic/05 - What Lies Within.md",
-    "Forensic/06 - m00nwalk.md",
     "SegundoParcial/Forensic 2022",
     "SegundoParcial/img",
     "SegundoParcial/Forensic 2021",
