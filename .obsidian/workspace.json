@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos/04 - Cryptography/_RSA.md",
+                "file": "retos/04 - Cryptography/RSA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos/04 - Cryptography/_RSA.md",
+                "file": "retos/04 - Cryptography/RSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos/04 - Cryptography/_RSA.md",
+                "file": "retos/04 - Cryptography/RSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos/04 - Cryptography/_RSA.md"
+                "file": "retos/04 - Cryptography/RSA.md"
               }
             }
           },
