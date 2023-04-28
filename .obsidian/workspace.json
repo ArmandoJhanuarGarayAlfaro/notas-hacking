@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web-Exploitation/02 - where are the robots.md",
+                "file": "Web-Exploitation/09 - JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web-Exploitation/02 - where are the robots.md",
+                "file": "Web-Exploitation/09 - JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web-Exploitation/02 - where are the robots.md",
+                "file": "Web-Exploitation/09 - JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web-Exploitation/02 - where are the robots.md"
+                "file": "Web-Exploitation/09 - JaWT Scratchpad.md"
               }
             }
           },
@@ -158,6 +158,13 @@
   },
   "active": "d5bfd1b0d3eba411",
   "lastOpenFiles": [
+    "Web-Exploitation/08 - Irish-Name-Repo 2.md",
+    "Web-Exploitation/06 - Client-side-again.md",
+    "Web-Exploitation/07 - Irish-Name-Repo 1.md",
+    "Web-Exploitation/05 - picobrowser.md",
+    "Web-Exploitation/04 - dont-use-client-side.md",
+    "Web-Exploitation/03 - logon.md",
+    "Web-Exploitation/02 - where are the robots.md",
     "Web-Exploitation/01 - Insp3ct0r.md",
     "Crypto/img/Pasted image 20230427201016.png",
     "Crypto/img/img.png",
@@ -188,14 +195,7 @@
     "Crypto/04 - caesar.md",
     "Crypto/img",
     "Crypto/03 - 13.md",
-    "Crypto/02 - Easy1.md",
-    "Crypto/01 - The Numbers.md",
-    "SegundoParcial/Forensic 2021/01 - information.md",
     "Crypto",
-    "SegundoParcial/Forensic 2022/01 - Enhance!.md",
-    "SegundoParcial/Forensic 2022/05 - St3g0.md",
-    "Forensic/05 - What Lies Within.md",
-    "Forensic/06 - m00nwalk.md",
     "SegundoParcial/Forensic 2022",
     "SegundoParcial/img",
     "SegundoParcial/Forensic 2021",
