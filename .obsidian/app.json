@@ -2,5 +2,5 @@
   "readableLineLength": false,
   "promptDelete": false,
   "useMarkdownLinks": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": false
 }
