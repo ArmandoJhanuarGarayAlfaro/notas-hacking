@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos/04 - Cryptography/12 - Pixelated.md",
+                "file": "retos/04 - Cryptography/RSA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos/04 - Cryptography/12 - Pixelated.md",
+                "file": "retos/04 - Cryptography/RSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos/04 - Cryptography/12 - Pixelated.md",
+                "file": "retos/04 - Cryptography/RSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos/04 - Cryptography/12 - Pixelated.md"
+                "file": "retos/04 - Cryptography/RSA.md"
               }
             }
           },
@@ -158,6 +158,11 @@
   },
   "active": "d5bfd1b0d3eba411",
   "lastOpenFiles": [
+    "retos/04 - Cryptography/Plantilla.md",
+    "retos/04 - Cryptography/10 - b00tl3gRSA2.md",
+    "retos/04 - Cryptography/09 - miniRSA.md",
+    "retos/04 - Cryptography/11 - Mind your Ps and Qs.md",
+    "retos/04 - Cryptography/12 - Pixelated.md",
     "retos/04 - Cryptography/13 - basic-mod1.md",
     "retos/04 - Cryptography/14 - HideToSee.md",
     "retos/04 - Cryptography/RSA.md",
@@ -189,13 +194,8 @@
     "Crypto/img/Pasted image 20230420210140.png",
     "Crypto/05 - la cifra de.md",
     "Crypto/Plantilla.md",
-    "Crypto/04 - caesar.md",
     "Crypto/img",
-    "Crypto/03 - 13.md",
-    "Crypto/02 - Easy1.md",
-    "SegundoParcial/Forensic 2021/01 - information.md",
     "Crypto",
-    "SegundoParcial/Forensic 2022/01 - Enhance!.md",
     "SegundoParcial/Forensic 2022",
     "SegundoParcial/img",
     "SegundoParcial/Forensic 2021",
