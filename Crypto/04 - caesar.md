@@ -58,7 +58,7 @@ crossingtherubiconzaqjsscr
 ```
 
 Se pone la cadena `dspttjohuifsvcjdpoabrkttds`
-![[Pasted image 20230420183509.png]]
+![Pasted image 20230420183509.png](https://github.com/ArmandoJhanuarGarayAlfaro/notas-hacking/blob/main/Crypto/img/Pasted%20image%2020230420183509.png)
 
 ## Bandera
 * picoCTF{crossingtherubiconzaqjsscr}
