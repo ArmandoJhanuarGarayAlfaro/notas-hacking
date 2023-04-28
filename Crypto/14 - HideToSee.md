@@ -30,7 +30,8 @@ atbash.jpg
 └─$ open atbash.jpg
 
 ```
-![[Pasted image 20230427192512.png]]
+![Pasted image 20230427192512.png](https://github.com/ArmandoJhanuarGarayAlfaro/notas-hacking/blob/main/Crypto/img/Pasted%20image%2020230427192512.png)
+
 ```bash
 ┌──(kali㉿kali)-[~/hacking/hidetosee]
 └─$ steghide extract -sf atbash.jpg
@@ -45,7 +46,7 @@ atbash.jpg  encrypted.txt
 └─$ cat encrypted.txt 
 krxlXGU{zgyzhs_xizxp_92533667}
 ```
-![[Pasted image 20230427193811.png]]
+![Pasted image 20230427193811.png](https://github.com/ArmandoJhanuarGarayAlfaro/notas-hacking/blob/main/Crypto/img/Pasted%20image%2020230427193811.png)
 
 
 ## Bandera
