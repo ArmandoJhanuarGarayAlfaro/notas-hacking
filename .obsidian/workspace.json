@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ac0e3d1f896921ef",
+        "id": "9319820ae8224b0c",
         "type": "tabs",
         "children": [
           {
-            "id": "a9bc938876f905be",
+            "id": "64f60174dedca410",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos/04 - Cryptography/14 - HideToSee.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos/04 - Cryptography/14 - HideToSee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos/04 - Cryptography/14 - HideToSee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "retos/04 - Cryptography/14 - HideToSee.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,18 +148,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a9bc938876f905be",
+  "active": "64f60174dedca410",
   "lastOpenFiles": [
-    "retos/05 - Reversing/01 - vault-door-training.md",
-    "retos/05 - Reversing/02 - vault-door-1.md",
-    "retos/03 - Forensics/10 - shark on wire 2.md",
-    "retos/05 - Reversing/img/Pasted image 20230501131018.png",
-    "retos/05 - Reversing/04 - vault-door-4.md",
-    "retos/05 - Reversing/Plantilla.md",
-    "retos/05 - Reversing/03 - vault-door-3.md",
     "Untitled.md",
+    "retos/05 - Reversing/04 - vault-door-4.md",
+    "retos/05 - Reversing/03 - vault-door-3.md",
     "retos/05 - Reversing/img/Pasted image 20230501133259.png",
+    "retos/05 - Reversing/02 - vault-door-1.md",
     "Pasted image 20230501131745.png",
+    "retos/05 - Reversing/01 - vault-door-training.md",
+    "retos/05 - Reversing/img/Pasted image 20230501131018.png",
+    "retos/05 - Reversing/Plantilla.md",
     "retos/05 - Reversing/img",
     "README.md",
     "retos/05 - Reversing",
@@ -196,6 +187,7 @@
     "Crypto/11 - Mind your Ps and Qs.md",
     "Crypto/_RSA.md",
     "Crypto/10 - b00tl3gRSA2.md",
+    "Crypto/08 - rsa-pop-quiz.md",
     "Crypto/img",
     "Crypto",
     "SegundoParcial/Forensic 2022",
