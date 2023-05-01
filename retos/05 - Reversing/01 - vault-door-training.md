@@ -7,6 +7,7 @@ Your mission is to enter Dr. Evil's laboratory and retrieve the blueprints for h
 1. The password is revealed in the program's source code.
 
 ## Solución
+
 ```bash
 ┌──(kali㉿kali)-[~/hacking/vault_training]
 └─$ wget 'https://jupiter.challenges.picoctf.org/static/1afdf83322ee9c0040f8e3a3c047e18b/VaultDoorTraining.java'
