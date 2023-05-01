@@ -96,7 +96,7 @@ Picked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
 Se toma la llave que da el codigo .java que se proporciona ya que en 
 el código da la contraseña
 
-![[Pasted image 20230501131018.png]]
+![Pasted image 20230501131018.png](https://github.com/ArmandoJhanuarGarayAlfaro/notas-hacking/blob/main/retos/05%20-%20Reversing/img/Pasted%20image%2020230501131018.png)
 
 ```bash
 ┌──(kali㉿kali)-[~/hacking/vault_training]
