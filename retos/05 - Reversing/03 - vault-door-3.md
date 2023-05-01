@@ -94,6 +94,7 @@ jU5t_a_s1mpl3_an4gr4m_4_u_1fb380 [debugger eval code:1:9](chrome://devtools/cont
 
 undefined
 ```
+
 ```bash
 ┌──(kali㉿kali)-[~/hacking/vault3]
 └─$ java VaultDoor3
