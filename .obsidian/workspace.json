@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "695436657a44e42e",
+        "id": "ac0e3d1f896921ef",
         "type": "tabs",
         "children": [
           {
-            "id": "d5bfd1b0d3eba411",
+            "id": "a9bc938876f905be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos/04 - Cryptography/RSA.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos/04 - Cryptography/RSA.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos/04 - Cryptography/RSA.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos/04 - Cryptography/RSA.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -156,8 +156,21 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d5bfd1b0d3eba411",
+  "active": "a9bc938876f905be",
   "lastOpenFiles": [
+    "Untitled.md",
+    "retos/05 - Reversing/04 - vault-door-4.md",
+    "retos/05 - Reversing/03 - vault-door-3.md",
+    "retos/05 - Reversing/img/Pasted image 20230501133259.png",
+    "retos/05 - Reversing/02 - vault-door-1.md",
+    "Pasted image 20230501131745.png",
+    "retos/05 - Reversing/01 - vault-door-training.md",
+    "retos/05 - Reversing/img/Pasted image 20230501131018.png",
+    "retos/05 - Reversing/Plantilla.md",
+    "retos/05 - Reversing/img",
+    "README.md",
+    "retos/05 - Reversing",
+    "retos/04 - Cryptography/RSA.md",
     "retos/04 - Cryptography/Plantilla.md",
     "retos/04 - Cryptography/10 - b00tl3gRSA2.md",
     "retos/04 - Cryptography/09 - miniRSA.md",
@@ -165,9 +178,7 @@
     "retos/04 - Cryptography/12 - Pixelated.md",
     "retos/04 - Cryptography/13 - basic-mod1.md",
     "retos/04 - Cryptography/14 - HideToSee.md",
-    "retos/04 - Cryptography/RSA.md",
     "retos/04 - Cryptography/15 - ReadMyCert.md",
-    "README.md",
     "Crypto/01 - The Numbers.md",
     "Crypto/15 - ReadMyCert.md",
     "Pasted image 20230427201016.png",
@@ -184,16 +195,7 @@
     "Crypto/11 - Mind your Ps and Qs.md",
     "Crypto/_RSA.md",
     "Crypto/10 - b00tl3gRSA2.md",
-    "Crypto/img/Pasted image 20230426214855.png",
     "Crypto/08 - rsa-pop-quiz.md",
-    "Crypto/07 - waves over lambda.md",
-    "Crypto/06 - Tapping.md",
-    "SegundoParcial/Web 2022/10 -  SQLLite.md",
-    "SegundoParcial/img/Pasted image 20230425185546.png",
-    "Crypto/09 - miniRSA.md",
-    "Crypto/img/Pasted image 20230420210140.png",
-    "Crypto/05 - la cifra de.md",
-    "Crypto/Plantilla.md",
     "Crypto/img",
     "Crypto",
     "SegundoParcial/Forensic 2022",
@@ -201,8 +203,6 @@
     "SegundoParcial/Forensic 2021",
     "SegundoParcial/Web 2022",
     "SegundoParcial",
-    "mystery 1",
-    "mystery",
-    "Forensic/img"
+    "mystery 1"
   ]
 }
