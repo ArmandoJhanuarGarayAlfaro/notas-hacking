@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9319820ae8224b0c",
+        "id": "ceec9dcb05de26e2",
         "type": "tabs",
         "children": [
           {
-            "id": "64f60174dedca410",
+            "id": "33bc35128139bcaa",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,8 +148,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "64f60174dedca410",
+  "active": "33bc35128139bcaa",
   "lastOpenFiles": [
+    "retos/05 - Reversing/06 - asm2.md",
+    "retos/05 - Reversing/07 - asm3.md",
+    "Pasted image 20230503182726.png",
+    "Pasted image 20230503182343.png",
+    "Pasted image 20230503182031.png",
+    "retos/05 - Reversing/05 - asm1.md",
     "Untitled.md",
     "retos/05 - Reversing/04 - vault-door-4.md",
     "retos/05 - Reversing/03 - vault-door-3.md",
@@ -181,13 +187,6 @@
     "Crypto/img/Pasted image 20230427192512.png",
     "Crypto/13 - basic-mod1.md",
     "Crypto/12 - Pixelated.md",
-    "Crypto/img/Pasted image 20230427191618.png",
-    "Crypto/img/Pasted image 20230427191609.png",
-    "Crypto/img/Pasted image 20230427191536.png",
-    "Crypto/11 - Mind your Ps and Qs.md",
-    "Crypto/_RSA.md",
-    "Crypto/10 - b00tl3gRSA2.md",
-    "Crypto/08 - rsa-pop-quiz.md",
     "Crypto/img",
     "Crypto",
     "SegundoParcial/Forensic 2022",
