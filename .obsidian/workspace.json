@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "0c7d3fed48690076",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -59,6 +70,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "4c23a68b66451091",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -148,7 +167,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "9a0c607fd32324cd",
+  "active": "0c7d3fed48690076",
   "lastOpenFiles": [
     "retos/05 - Reversing/06 - asm2.md",
     "retos/05 - Reversing/07 - asm3.md",
