@@ -11,22 +11,15 @@
             "id": "33bc35128139bcaa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0c7d3fed48690076",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "retos/05 - Reversing/01 - vault-door-training.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "retos/05 - Reversing/01 - vault-door-training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "retos/05 - Reversing/01 - vault-door-training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "retos/05 - Reversing/01 - vault-door-training.md"
+              }
             }
           },
           {
@@ -167,7 +164,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0c7d3fed48690076",
+  "active": "33bc35128139bcaa",
   "lastOpenFiles": [
     "retos/05 - Reversing/06 - asm2.md",
     "retos/05 - Reversing/07 - asm3.md",
