@@ -27,3 +27,4 @@ Despejar encriptado `(c = m^e mod n)` cuando:
 c = m^e mod n
 c = m^e
 m = e raiz c
+[a](https://dev.to/brunoblaise/sra-picoctf-2023-278b)

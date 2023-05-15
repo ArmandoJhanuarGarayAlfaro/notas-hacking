@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bb59895212b27dac",
+        "id": "c94c3062bc0d5f6a",
         "type": "tabs",
         "children": [
           {
-            "id": "7e385435645af444",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "97b3e86485d666c9",
+            "id": "d5382904102747f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos/06 - Binary Exploitation/03 - buffer overflow 1.md",
+                "file": "retos/06 - Binary Exploitation/05 - Stonks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos/06 - Binary Exploitation/03 - buffer overflow 1.md",
+                "file": "retos/06 - Binary Exploitation/05 - Stonks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos/06 - Binary Exploitation/03 - buffer overflow 1.md",
+                "file": "retos/06 - Binary Exploitation/05 - Stonks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos/06 - Binary Exploitation/03 - buffer overflow 1.md"
+                "file": "retos/06 - Binary Exploitation/05 - Stonks.md"
               }
             }
           },
@@ -173,12 +164,41 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "97b3e86485d666c9",
+  "active": "d5382904102747f0",
   "lastOpenFiles": [
-    "retos/06 - Binary Exploitation/02 - buffer overflow 0.md",
-    "retos/06 - Binary Exploitation/03 - buffer overflow 1.md",
-    "retos/06 - Binary Exploitation/01 - basic-file-exploit.md",
+    "Pasted image 20230514213116.png",
+    "retos/06 - Binary Exploitation/04 - flag leak.md",
+    "retos/06 - Binary Exploitation/05 - Stonks.md",
     "retos/06 - Binary Exploitation/Plantilla.md",
+    "retos/06 - Binary Exploitation/img/Pasted image 20230514210258.png",
+    "retos/06 - Binary Exploitation/img/Pasted image 20230514205826.png",
+    "retos/04 - Cryptography/RSA.md",
+    "retos/04 - Cryptography/09 - miniRSA.md",
+    "retos/04 - Cryptography/10 - b00tl3gRSA2.md",
+    "retos/04 - Cryptography/11 - Mind your Ps and Qs.md",
+    "retos/04 - Cryptography/12 - Pixelated.md",
+    "Examenes/03 - Tercer Parcial/Cryptografia/05  - SRA.md",
+    "retos/04 - Cryptography/15 - ReadMyCert.md",
+    "retos/04 - Cryptography/14 - HideToSee.md",
+    "retos/04 - Cryptography/13 - basic-mod1.md",
+    "README.md",
+    "Examenes/03 - Tercer Parcial/Cryptografia/Plantilla.md",
+    "Examenes/03 - Tercer Parcial/Cryptografia/04 - Vigenere.md",
+    "Examenes/03 - Tercer Parcial/img/Pasted image 20230514182122.png",
+    "Examenes/03 - Tercer Parcial/Cryptografia/03 - transposition-trial.md",
+    "Examenes/03 - Tercer Parcial/Cryptografia/02 - Mr-Worldwide.md",
+    "Examenes/03 - Tercer Parcial/img/Pasted image 20230514174318.png",
+    "Examenes/03 - Tercer Parcial/Plantilla.md",
+    "Examenes/03 - Tercer Parcial/Cryptografia/01 - Flags.md",
+    "Examenes/03 - Tercer Parcial/img/Pasted image 20230514172229.png",
+    "Examenes/03 - Tercer Parcial/Binary Exploitation",
+    "Examenes/03 - Tercer Parcial/Reversing",
+    "Examenes/03 - Tercer Parcial/Cryptografia",
+    "Examenes/03 - Tercer Parcial/img",
+    "Examenes/03 - Tercer Parcial",
+    "retos/06 - Binary Exploitation/03 - buffer overflow 1.md",
+    "retos/06 - Binary Exploitation/02 - buffer overflow 0.md",
+    "retos/06 - Binary Exploitation/01 - basic-file-exploit.md",
     "retos/06 - Binary Exploitation/img",
     "Untitled.md",
     "retos/06 - Binary Exploitation",
@@ -189,37 +209,8 @@
     "retos/05 - Reversing/img/Pasted image 20230509232455.png",
     "retos/05 - Reversing/img/Pasted image 20230509232404.png",
     "retos/05 - Reversing/img/Pasted image 20230509232327.png",
-    "retos/05 - Reversing/img/Pasted image 20230509232300.png",
-    "retos/05 - Reversing/img/Pasted image 20230509232240.png",
-    "retos/05 - Reversing/img/Pasted image 20230509232057.png",
-    "retos/05 - Reversing/09 - GDB Test Drive.md",
-    "retos/05 - Reversing/img/Pasted image 20230509231025.png",
-    "retos/05 - Reversing/img/Pasted image 20230509230938.png",
-    "retos/05 - Reversing/08 - Need For Speed.md",
-    "retos/05 - Reversing/Plantilla.md",
-    "retos/05 - Reversing/07 - asm3.md",
-    "retos/05 - Reversing/05 - asm1.md",
-    "retos/05 - Reversing/01 - vault-door-training.md",
-    "retos/05 - Reversing/06 - asm2.md",
-    "retos/05 - Reversing/04 - vault-door-4.md",
-    "retos/05 - Reversing/03 - vault-door-3.md",
-    "retos/05 - Reversing/02 - vault-door-1.md",
     "retos/05 - Reversing/img",
-    "README.md",
     "retos/05 - Reversing",
-    "retos/04 - Cryptography/RSA.md",
-    "retos/04 - Cryptography/Plantilla.md",
-    "retos/04 - Cryptography/10 - b00tl3gRSA2.md",
-    "retos/04 - Cryptography/09 - miniRSA.md",
-    "retos/04 - Cryptography/11 - Mind your Ps and Qs.md",
-    "retos/04 - Cryptography/12 - Pixelated.md",
-    "retos/04 - Cryptography/13 - basic-mod1.md",
-    "retos/04 - Cryptography/14 - HideToSee.md",
-    "Crypto/img",
-    "Crypto",
-    "SegundoParcial/Forensic 2022",
-    "SegundoParcial/img",
-    "SegundoParcial/Forensic 2021",
-    "SegundoParcial/Web 2022"
+    "Crypto/img"
   ]
 }
