@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos/06 - Binary Exploitation/05 - Stonks.md",
+                "file": "retos/06 - Binary Exploitation/04 - flag leak.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos/06 - Binary Exploitation/05 - Stonks.md",
+                "file": "retos/06 - Binary Exploitation/04 - flag leak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos/06 - Binary Exploitation/05 - Stonks.md",
+                "file": "retos/06 - Binary Exploitation/04 - flag leak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos/06 - Binary Exploitation/05 - Stonks.md"
+                "file": "retos/06 - Binary Exploitation/04 - flag leak.md"
               }
             }
           },
@@ -166,9 +166,9 @@
   },
   "active": "d5382904102747f0",
   "lastOpenFiles": [
-    "Pasted image 20230514213116.png",
-    "retos/06 - Binary Exploitation/04 - flag leak.md",
     "retos/06 - Binary Exploitation/05 - Stonks.md",
+    "retos/06 - Binary Exploitation/img/Pasted image 20230514213116.png",
+    "retos/06 - Binary Exploitation/04 - flag leak.md",
     "retos/06 - Binary Exploitation/Plantilla.md",
     "retos/06 - Binary Exploitation/img/Pasted image 20230514210258.png",
     "retos/06 - Binary Exploitation/img/Pasted image 20230514205826.png",
@@ -208,7 +208,6 @@
     "retos/05 - Reversing/img/Pasted image 20230509232710.png",
     "retos/05 - Reversing/img/Pasted image 20230509232455.png",
     "retos/05 - Reversing/img/Pasted image 20230509232404.png",
-    "retos/05 - Reversing/img/Pasted image 20230509232327.png",
     "retos/05 - Reversing/img",
     "retos/05 - Reversing",
     "Crypto/img"
