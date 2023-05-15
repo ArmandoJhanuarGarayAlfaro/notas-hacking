@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos/06 - Binary Exploitation/04 - flag leak.md",
+                "file": "Examenes/03 - Tercer Parcial/Cryptografia/03 - transposition-trial.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos/06 - Binary Exploitation/04 - flag leak.md",
+                "file": "Examenes/03 - Tercer Parcial/Cryptografia/03 - transposition-trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos/06 - Binary Exploitation/04 - flag leak.md",
+                "file": "Examenes/03 - Tercer Parcial/Cryptografia/03 - transposition-trial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos/06 - Binary Exploitation/04 - flag leak.md"
+                "file": "Examenes/03 - Tercer Parcial/Cryptografia/03 - transposition-trial.md"
               }
             }
           },
@@ -166,9 +166,10 @@
   },
   "active": "d5382904102747f0",
   "lastOpenFiles": [
+    "Examenes/03 - Tercer Parcial/Cryptografia/04 - Vigenere.md",
+    "retos/06 - Binary Exploitation/04 - flag leak.md",
     "retos/06 - Binary Exploitation/05 - Stonks.md",
     "retos/06 - Binary Exploitation/img/Pasted image 20230514213116.png",
-    "retos/06 - Binary Exploitation/04 - flag leak.md",
     "retos/06 - Binary Exploitation/Plantilla.md",
     "retos/06 - Binary Exploitation/img/Pasted image 20230514210258.png",
     "retos/06 - Binary Exploitation/img/Pasted image 20230514205826.png",
@@ -183,7 +184,6 @@
     "retos/04 - Cryptography/13 - basic-mod1.md",
     "README.md",
     "Examenes/03 - Tercer Parcial/Cryptografia/Plantilla.md",
-    "Examenes/03 - Tercer Parcial/Cryptografia/04 - Vigenere.md",
     "Examenes/03 - Tercer Parcial/img/Pasted image 20230514182122.png",
     "Examenes/03 - Tercer Parcial/Cryptografia/03 - transposition-trial.md",
     "Examenes/03 - Tercer Parcial/Cryptografia/02 - Mr-Worldwide.md",
