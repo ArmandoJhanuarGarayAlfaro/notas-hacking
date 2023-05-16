@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c94c3062bc0d5f6a",
+        "id": "996f7bc5e23b4ddb",
         "type": "tabs",
         "children": [
           {
-            "id": "d5382904102747f0",
+            "id": "676eaf3a026d5afa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Examenes/03 - Tercer Parcial/Cryptografia/03 - transposition-trial.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Examenes/03 - Tercer Parcial/Cryptografia/03 - transposition-trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Examenes/03 - Tercer Parcial/Cryptografia/03 - transposition-trial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Examenes/03 - Tercer Parcial/Cryptografia/03 - transposition-trial.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,8 +156,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d5382904102747f0",
+  "active": "676eaf3a026d5afa",
   "lastOpenFiles": [
+    "2023-05-15.md",
+    "Untitled.canvas",
+    "Examenes/03 - Tercer Parcial/Cryptografia/03 - transposition-trial.md",
     "Examenes/03 - Tercer Parcial/Cryptografia/04 - Vigenere.md",
     "retos/06 - Binary Exploitation/04 - flag leak.md",
     "retos/06 - Binary Exploitation/05 - Stonks.md",
@@ -185,7 +180,6 @@
     "README.md",
     "Examenes/03 - Tercer Parcial/Cryptografia/Plantilla.md",
     "Examenes/03 - Tercer Parcial/img/Pasted image 20230514182122.png",
-    "Examenes/03 - Tercer Parcial/Cryptografia/03 - transposition-trial.md",
     "Examenes/03 - Tercer Parcial/Cryptografia/02 - Mr-Worldwide.md",
     "Examenes/03 - Tercer Parcial/img/Pasted image 20230514174318.png",
     "Examenes/03 - Tercer Parcial/Plantilla.md",
@@ -203,7 +197,6 @@
     "Untitled.md",
     "retos/06 - Binary Exploitation",
     "retos/05 - Reversing/11 - Safe Opener 2.md",
-    "retos/05 - Reversing/10 - reverse_cipher.md",
     "retos/05 - Reversing/img/Pasted image 20230509232719.png",
     "retos/05 - Reversing/img/Pasted image 20230509232710.png",
     "retos/05 - Reversing/img/Pasted image 20230509232455.png",
