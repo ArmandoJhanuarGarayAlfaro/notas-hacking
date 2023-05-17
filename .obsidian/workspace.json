@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Examenes/03 - Tercer Parcial/Binary Exploitation/04 - two-sum.md",
+                "file": "Examenes/03 - Tercer Parcial/Reversing/01 - ASCII FTW.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Examenes/03 - Tercer Parcial/Binary Exploitation/04 - two-sum.md",
+                "file": "Examenes/03 - Tercer Parcial/Reversing/01 - ASCII FTW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Examenes/03 - Tercer Parcial/Binary Exploitation/04 - two-sum.md",
+                "file": "Examenes/03 - Tercer Parcial/Reversing/01 - ASCII FTW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Examenes/03 - Tercer Parcial/Binary Exploitation/04 - two-sum.md"
+                "file": "Examenes/03 - Tercer Parcial/Reversing/01 - ASCII FTW.md"
               }
             }
           },
@@ -164,27 +164,27 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "44dc151cc4a29ee2",
+  "active": "9a0c607fd32324cd",
   "lastOpenFiles": [
+    "Examenes/03 - Tercer Parcial/Reversing/07 - GDB baby step 2.md",
+    "Examenes/03 - Tercer Parcial/Reversing/06 - GDB baby step 1.md",
+    "Examenes/03 - Tercer Parcial/Reversing/05 - Bit-O-Asm-4.md",
+    "Examenes/03 - Tercer Parcial/Reversing/04 - Bit-O-Asm-3.md",
+    "Examenes/03 - Tercer Parcial/Reversing/03 - Bit-O-Asm-2.md",
+    "Examenes/03 - Tercer Parcial/Reversing/02 - Bit-O-Asm-1.md",
+    "Examenes/03 - Tercer Parcial/Binary Exploitation/01 - Picker IV.md",
+    "Examenes/03 - Tercer Parcial/Binary Exploitation/02 - Local Target.md",
     "Examenes/03 - Tercer Parcial/Binary Exploitation/03 - clutter-overflow.md",
     "Examenes/03 - Tercer Parcial/Binary Exploitation/04 - two-sum.md",
     "retos/06 - Binary Exploitation/03 - buffer overflow 1.md",
     "retos/06 - Binary Exploitation/02 - buffer overflow 0.md",
-    "Examenes/03 - Tercer Parcial/Binary Exploitation/02 - Local Target.md",
     "Examenes/03 - Tercer Parcial/Binary Exploitation/Plantilla.md",
-    "Examenes/03 - Tercer Parcial/Binary Exploitation/01 - Picker IV.md",
-    "Examenes/03 - Tercer Parcial/Reversing/07 - GDB baby step 2.md",
-    "Examenes/03 - Tercer Parcial/Reversing/06 - GDB baby step 1.md",
     "Examenes/03 - Tercer Parcial/Reversing/01.md",
     "retos/05 - Reversing/09 - GDB Test Drive.md",
     "Examenes/03 - Tercer Parcial/img/Pasted image 20230516225543.png",
-    "Examenes/03 - Tercer Parcial/Reversing/05 - Bit-O-Asm-4.md",
-    "Examenes/03 - Tercer Parcial/Reversing/04 - Bit-O-Asm-3.md",
     "retos/05 - Reversing/10 - reverse_cipher.md",
     "retos/05 - Reversing/11 - Safe Opener 2.md",
     "Examenes/03 - Tercer Parcial/Reversing/01 - ASCII FTW.md",
-    "Examenes/03 - Tercer Parcial/Reversing/03 - Bit-O-Asm-2.md",
-    "Examenes/03 - Tercer Parcial/Reversing/02 - Bit-O-Asm-1.md",
     "retos/05 - Reversing/06 - asm2.md",
     "retos/05 - Reversing/08 - Need For Speed.md",
     "retos/05 - Reversing/05 - asm1.md",
