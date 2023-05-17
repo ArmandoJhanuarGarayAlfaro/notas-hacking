@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "996f7bc5e23b4ddb",
+        "id": "7e8a6969e35a55d5",
         "type": "tabs",
         "children": [
           {
-            "id": "676eaf3a026d5afa",
+            "id": "44dc151cc4a29ee2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Examenes/03 - Tercer Parcial/Binary Exploitation/04 - two-sum.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Examenes/03 - Tercer Parcial/Binary Exploitation/04 - two-sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Examenes/03 - Tercer Parcial/Binary Exploitation/04 - two-sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Examenes/03 - Tercer Parcial/Binary Exploitation/04 - two-sum.md"
+              }
             }
           },
           {
@@ -156,51 +164,52 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "9a0c607fd32324cd",
+  "active": "44dc151cc4a29ee2",
   "lastOpenFiles": [
-    "2023-05-15.md",
+    "Examenes/03 - Tercer Parcial/Binary Exploitation/03 - clutter-overflow.md",
+    "Examenes/03 - Tercer Parcial/Binary Exploitation/04 - two-sum.md",
+    "retos/06 - Binary Exploitation/03 - buffer overflow 1.md",
+    "retos/06 - Binary Exploitation/02 - buffer overflow 0.md",
+    "Examenes/03 - Tercer Parcial/Binary Exploitation/02 - Local Target.md",
+    "Examenes/03 - Tercer Parcial/Binary Exploitation/Plantilla.md",
+    "Examenes/03 - Tercer Parcial/Binary Exploitation/01 - Picker IV.md",
+    "Examenes/03 - Tercer Parcial/Reversing/07 - GDB baby step 2.md",
+    "Examenes/03 - Tercer Parcial/Reversing/06 - GDB baby step 1.md",
+    "Examenes/03 - Tercer Parcial/Reversing/01.md",
+    "retos/05 - Reversing/09 - GDB Test Drive.md",
+    "Examenes/03 - Tercer Parcial/img/Pasted image 20230516225543.png",
+    "Examenes/03 - Tercer Parcial/Reversing/05 - Bit-O-Asm-4.md",
+    "Examenes/03 - Tercer Parcial/Reversing/04 - Bit-O-Asm-3.md",
+    "retos/05 - Reversing/10 - reverse_cipher.md",
+    "retos/05 - Reversing/11 - Safe Opener 2.md",
+    "Examenes/03 - Tercer Parcial/Reversing/01 - ASCII FTW.md",
+    "Examenes/03 - Tercer Parcial/Reversing/03 - Bit-O-Asm-2.md",
+    "Examenes/03 - Tercer Parcial/Reversing/02 - Bit-O-Asm-1.md",
+    "retos/05 - Reversing/06 - asm2.md",
+    "retos/05 - Reversing/08 - Need For Speed.md",
+    "retos/05 - Reversing/05 - asm1.md",
+    "retos/06 - Binary Exploitation/01 - basic-file-exploit.md",
+    "retos/05 - Reversing/01 - vault-door-training.md",
+    "retos/05 - Reversing/04 - vault-door-4.md",
+    "retos/05 - Reversing/03 - vault-door-3.md",
+    "Examenes/03 - Tercer Parcial/Reversing/Plantilla.md",
     "Untitled.canvas",
-    "Examenes/03 - Tercer Parcial/Cryptografia/03 - transposition-trial.md",
-    "Examenes/03 - Tercer Parcial/Cryptografia/04 - Vigenere.md",
-    "retos/06 - Binary Exploitation/04 - flag leak.md",
-    "retos/06 - Binary Exploitation/05 - Stonks.md",
     "retos/06 - Binary Exploitation/img/Pasted image 20230514213116.png",
-    "retos/06 - Binary Exploitation/Plantilla.md",
     "retos/06 - Binary Exploitation/img/Pasted image 20230514210258.png",
     "retos/06 - Binary Exploitation/img/Pasted image 20230514205826.png",
-    "retos/04 - Cryptography/RSA.md",
-    "retos/04 - Cryptography/09 - miniRSA.md",
-    "retos/04 - Cryptography/10 - b00tl3gRSA2.md",
-    "retos/04 - Cryptography/11 - Mind your Ps and Qs.md",
-    "retos/04 - Cryptography/12 - Pixelated.md",
-    "Examenes/03 - Tercer Parcial/Cryptografia/05  - SRA.md",
-    "retos/04 - Cryptography/15 - ReadMyCert.md",
-    "retos/04 - Cryptography/14 - HideToSee.md",
-    "retos/04 - Cryptography/13 - basic-mod1.md",
-    "README.md",
-    "Examenes/03 - Tercer Parcial/Cryptografia/Plantilla.md",
     "Examenes/03 - Tercer Parcial/img/Pasted image 20230514182122.png",
-    "Examenes/03 - Tercer Parcial/Cryptografia/02 - Mr-Worldwide.md",
     "Examenes/03 - Tercer Parcial/img/Pasted image 20230514174318.png",
-    "Examenes/03 - Tercer Parcial/Plantilla.md",
-    "Examenes/03 - Tercer Parcial/Cryptografia/01 - Flags.md",
     "Examenes/03 - Tercer Parcial/img/Pasted image 20230514172229.png",
     "Examenes/03 - Tercer Parcial/Binary Exploitation",
     "Examenes/03 - Tercer Parcial/Reversing",
     "Examenes/03 - Tercer Parcial/Cryptografia",
     "Examenes/03 - Tercer Parcial/img",
     "Examenes/03 - Tercer Parcial",
-    "retos/06 - Binary Exploitation/03 - buffer overflow 1.md",
-    "retos/06 - Binary Exploitation/02 - buffer overflow 0.md",
-    "retos/06 - Binary Exploitation/01 - basic-file-exploit.md",
     "retos/06 - Binary Exploitation/img",
-    "Untitled.md",
     "retos/06 - Binary Exploitation",
-    "retos/05 - Reversing/11 - Safe Opener 2.md",
     "retos/05 - Reversing/img/Pasted image 20230509232719.png",
     "retos/05 - Reversing/img/Pasted image 20230509232710.png",
     "retos/05 - Reversing/img/Pasted image 20230509232455.png",
-    "retos/05 - Reversing/img/Pasted image 20230509232404.png",
     "retos/05 - Reversing/img",
     "retos/05 - Reversing",
     "Crypto/img"
