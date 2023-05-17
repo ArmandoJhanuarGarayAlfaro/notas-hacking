@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7e8a6969e35a55d5",
+        "id": "e7c1314068c3714a",
         "type": "tabs",
         "children": [
           {
-            "id": "44dc151cc4a29ee2",
+            "id": "18d6d5945f945e7b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Examenes/03 - Tercer Parcial/Reversing/01 - ASCII FTW.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -73,7 +76,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -93,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Examenes/03 - Tercer Parcial/Reversing/01 - ASCII FTW.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Examenes/03 - Tercer Parcial/Reversing/01 - ASCII FTW.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Examenes/03 - Tercer Parcial/Reversing/01 - ASCII FTW.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -164,8 +168,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "9a0c607fd32324cd",
+  "active": "18d6d5945f945e7b",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Examenes/03 - Tercer Parcial/Reversing/01 - ASCII FTW.md",
     "Examenes/03 - Tercer Parcial/Reversing/07 - GDB baby step 2.md",
     "Examenes/03 - Tercer Parcial/Reversing/06 - GDB baby step 1.md",
     "Examenes/03 - Tercer Parcial/Reversing/05 - Bit-O-Asm-4.md",
@@ -184,7 +190,6 @@
     "Examenes/03 - Tercer Parcial/img/Pasted image 20230516225543.png",
     "retos/05 - Reversing/10 - reverse_cipher.md",
     "retos/05 - Reversing/11 - Safe Opener 2.md",
-    "Examenes/03 - Tercer Parcial/Reversing/01 - ASCII FTW.md",
     "retos/05 - Reversing/06 - asm2.md",
     "retos/05 - Reversing/08 - Need For Speed.md",
     "retos/05 - Reversing/05 - asm1.md",
@@ -192,8 +197,6 @@
     "retos/05 - Reversing/01 - vault-door-training.md",
     "retos/05 - Reversing/04 - vault-door-4.md",
     "retos/05 - Reversing/03 - vault-door-3.md",
-    "Examenes/03 - Tercer Parcial/Reversing/Plantilla.md",
-    "Untitled.canvas",
     "retos/06 - Binary Exploitation/img/Pasted image 20230514213116.png",
     "retos/06 - Binary Exploitation/img/Pasted image 20230514210258.png",
     "retos/06 - Binary Exploitation/img/Pasted image 20230514205826.png",
